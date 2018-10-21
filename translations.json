@@ -1,0 +1,4612 @@
+{
+  "da": {
+    "": {
+      "content-type": "text/plain; charset=UTF-8",
+      "plural-forms": "nplurals=2; plural=(n != 1);",
+      "x-generator": "crowdin.com",
+      "x-crowdin-project": "connectedcars-mobileapp",
+      "x-crowdin-language": "da",
+      "x-crowdin-file": "/connectedcars-mobileapp/app/locales/template.pot",
+      "project-id-version": "connectedcars-mobileapp",
+      "last-translator": "tlbdk <troels@connectedcars.dk>",
+      "language-team": "Danish",
+      "language": "da",
+      "po-revision-date": "2018-09-18 11:00"
+    },
+    "[unknown]": [
+      null,
+      "[ukendt]"
+    ],
+    "{amount} {currency}": [
+      null,
+      "{amount} {currency}"
+    ],
+    "{brand} is fetching new app updates": [
+      null,
+      "{brand} henter nye app-opdateringer"
+    ],
+    "{brand} keeps you updated about your car’s health at all time.": [
+      null,
+      "{brand} holder dig konstant opdateret om din bils helbred."
+    ],
+    "{distance} km": [
+      null,
+      "{distance} km"
+    ],
+    "{duration} min": [
+      null,
+      "{duration} min"
+    ],
+    "{km} km": [
+      null,
+      "{km} km"
+    ],
+    "{liters} l": [
+      null,
+      "{liters} l"
+    ],
+    "{n} day": [
+      "{n} days",
+      "{n} dag",
+      "{n} dage"
+    ],
+    "{n} liter": [
+      "{n} liters",
+      "{n} liter",
+      "{n} liter"
+    ],
+    "{NAME} reported a lamp: {LAMP}": [
+      null,
+      "{NAME} har registreret en advarselslampe: {LAMP}"
+    ],
+    "{NAME} reported multiple lamps: {LAMPS}": [
+      null,
+      "{NAME} har registreret flere advarselslamper: {LAMPS}"
+    ],
+    "{optionsText} ONLY": [
+      null,
+      "KUN {optionsText}"
+    ],
+    "{speed} km/h": [
+      null,
+      "{speed} km/t"
+    ],
+    "•\tCalculated direction\n•\tTrip time": [
+      null,
+      "•\tBeregnet retning\n•\tTidsforbrug"
+    ],
+    "•\tFuel level": [
+      null,
+      "•\tBrændstofsforbrug"
+    ],
+    "•\tOdometer": [
+      null,
+      "•\tKilometerstand"
+    ],
+    "•\tUnit position\n•\tOdometer": [
+      null,
+      "•\tEnheds position\n•\tKilometerstand"
+    ],
+    "12 34 56 78": [
+      null,
+      "12 34 56 78"
+    ],
+    "A link to reset password is successfully sent to": [
+      null,
+      "Et link til at nulstille kodeordet er succesfuldt blevet send til"
+    ],
+    "Accept": [
+      null,
+      "Accepter"
+    ],
+    "Accept & continue": [
+      null,
+      "Accepter & fortsæt"
+    ],
+    "Account": [
+      null,
+      "Konto"
+    ],
+    "Additional info": [
+      null,
+      "Yderligere information"
+    ],
+    "Allow": [
+      null,
+      "Tillad"
+    ],
+    "Allow access to your camera to start taking photos": [
+      null,
+      "Giv tilladelse til at bruge dit kamera til at tage foto"
+    ],
+    "Allow all": [
+      null,
+      "Tillad alle"
+    ],
+    "Allow feedback": [
+      null,
+      "Tillad feedback"
+    ],
+    "Allow permission": [
+      null,
+      "Giv tilladelse"
+    ],
+    "Almost there!": [
+      null,
+      "Næsten færdig!"
+    ],
+    "Already have an account?": [
+      null,
+      "Har du allerede en konto?"
+    ],
+    "An error occurred please try again later!": [
+      null,
+      "Der er sket en fejl. Prøv igen senere!"
+    ],
+    "An error occurred, please try again later": [
+      null,
+      "Der er sket en fejl. Prøv igen senere"
+    ],
+    "APP VERSION: {version}": [
+      null,
+      "APP VERSION: {version}"
+    ],
+    "Apps you can connect with": [
+      null,
+      "Apps du kan forbinde med"
+    ],
+    "Are you sure you want to permanently close your account?": [
+      null,
+      "Er du sikker på, at du vil lukke din konto permanent?"
+    ],
+    "Are you sure you want to remove your car?\nOnce it is removed the car is gone from your app. If you want to reactivate it you have to contact your preferred workshop.": [
+      null,
+      "Er du sikker på, at du vil fjerne bilen?\nNår bilen bliver fjernet forsvinder den fra appen. Hvis du vil genaktivere den skal du tage kontakt til dit foretrukne værksted."
+    ],
+    "As an ALD customer, you can use My ALD - a customer portal, where you will find everything that concerns the day-to-day operation of the company car. You can send damage reviews. send in damage claims, order time for service through Servicelink and accompany both the fleet and the individual car. It is also possible to order registration certificates, red and green cards and to manage fuel cards.": [
+      null,
+      "Som ALD-kunde kan du med fordel bruge My ALD – en kundeportal, hvor du finder alt, hvad der vedrører den daglige drift af din firmabil. Du kan bla. sende skadesanmeldelser, bestille tid til service gennem Servicelink og følge med i både flåde og den enkelte bil. Det er også muligt at bestille registreringsattest, rødt og grønt kort samt at administrere brændstofkort."
+    ],
+    "As an NF Fleet customer, you can use My NF Fleet - a customer portal, where you will find everything that concerns the day-to-day operation of the company car. You can send damage reviews. send in damage claims, order time for service through Servicelink and accompany both the fleet and the individual car. It is also possible to order registration certificates, red and green cards and to manage fuel cards.": [
+      null,
+      "Som NF Fleet-kunde kan du med fordel bruge My NF Fleet – en kundeportal, hvor du finder alt, hvad der vedrører den daglige drift af din firmabil. Du kan bla. sende skadesanmeldelser, bestille tid til service gennem Servicelink og følge med i både flåde og den enkelte bil. Det er også muligt at bestille registreringsattest, rødt og grønt kort samt at administrere brændstofkort."
+    ],
+    "Attention": [
+      null,
+      "Vær opmærksom"
+    ],
+    "Authorize": [
+      null,
+      "Autoriser"
+    ],
+    "Authorized service": [
+      null,
+      "Autoriseret service"
+    ],
+    "Automatically stop parking": [
+      null,
+      "Stop parkering automatisk"
+    ],
+    "Avg. speed": [
+      null,
+      "Gennemsnitshastighed"
+    ],
+    "Blinking": [
+      null,
+      "Blinker"
+    ],
+    "Book an appointment at your preferred workshop. They can read out the cars health prior to your visit": [
+      null,
+      "Lav en aftale med dit foretrukne værksted. De kan se bilens helbred forud for aftalen"
+    ],
+    "Book appointment": [
+      null,
+      "Bestil tid"
+    ],
+    "Book now": [
+      null,
+      "Book nu"
+    ],
+    "Book service": [
+      null,
+      "Book service"
+    ],
+    "Booking": [
+      null,
+      "Booking"
+    ],
+    "Booking is not available for this workshop.": [
+      null,
+      "Booking er ikke tilgængelig for dette værksted."
+    ],
+    "Brand": [
+      null,
+      "Mærke"
+    ],
+    "By clicking “Accept & continue”, you give your consent for Connected Cars A/S to collect this information from the vehicle in order to deliver the services. You also give your consent for information about error codes and technical details to be forwarded for use by My Preferred Workshop for maintenance and repairs.": [
+      null,
+      "Ved at klikke “Accepter & fortsæt” giver du samtykke til, at Connected Cars A/S indsamler disse oplysninger fra bilen til brug for at levere tjenesterne. Du giver også samtykke til, at oplysninger om fejlkoder og tekniske oplysninger videregives til Mit Foretrukne Værksted til brug for vedligeholdelse og reparationer."
+    ],
+    "By clicking Authorize, you allow {service} to use your information in accordance with their terms and condition and privacy policy. You can revoke this consent in your {brand} settings at any time.": [
+      null,
+      "Ved at klikke Autoriser, tillader du, at {service} kan bruge din information i overensstemmelse med deres betingelser og privatlivspolitik. Du kan til hver en tid tilbagekalde dette samtykke i {brand}."
+    ],
+    "By clicking continue, you confirm that you have read and understood Connected Cars’ terms and conditions": [
+      null,
+      "Ved at klikke fortsæt bekræfter du, at du har læst og forstået Connected Cars betingelser"
+    ],
+    "Calculated direction\nTrip time": [
+      null,
+      "Udregnet retning\nKøretid"
+    ],
+    "Call": [
+      null,
+      "Ring"
+    ],
+    "Call {name}": [
+      null,
+      "Ring til {name}"
+    ],
+    "Call roadside assistance": [
+      null,
+      "Ring til vejhjælp"
+    ],
+    "Call workshop": [
+      null,
+      "Ring til værksted"
+    ],
+    "Cancel": [
+      null,
+      "Annuller"
+    ],
+    "car": [
+      null,
+      "bil"
+    ],
+    "Car added": [
+      null,
+      "Bil tilføjet"
+    ],
+    "Car details": [
+      null,
+      "Bildetaljer"
+    ],
+    "Car health": [
+      null,
+      "Bilstatus"
+    ],
+    "Car information": [
+      null,
+      "Bilinformation"
+    ],
+    "Car insurance for": [
+      null,
+      "Forsikring for"
+    ],
+    "Car is currently": [
+      null,
+      "Bilen er lige nu"
+    ],
+    "Car Lock": [
+      null,
+      "Lås"
+    ],
+    "Car manual": [
+      null,
+      "Bilmanual"
+    ],
+    "Car status": [
+      null,
+      "Status"
+    ],
+    "Cartime is a GPS-based, automatic parking and payment solution": [
+      null,
+      "Cartime er en GPS-baseret, automatisk parkerings- og betalingsløsning"
+    ],
+    "Change password": [
+      null,
+      "Skift kodeord"
+    ],
+    "Change Workshop": [
+      null,
+      "Skift værksted"
+    ],
+    "Chassis number": [
+      null,
+      "Stelnummer"
+    ],
+    "Chat with workshop": [
+      null,
+      "Chat med værksted"
+    ],
+    "Check the health of your car and get notified if something changes.": [
+      null,
+      "Tjek din bils helbred og bliv underrettet, hvis noget ændrer sig."
+    ],
+    "Choose from Library": [
+      null,
+      "Vælg fra bibliotek"
+    ],
+    "Close": [
+      null,
+      "Luk"
+    ],
+    "CLOSE": [
+      null,
+      "LUK"
+    ],
+    "Close account": [
+      null,
+      "Luk konto"
+    ],
+    "Closed": [
+      null,
+      "Lukket"
+    ],
+    "Closes your {brand} account permanently and stop receiving any updates from {brand} or your vehicle.": [
+      null,
+      "Luk din {brand} konto permanent og stop med at få opdateringer fra {brand} og din bil."
+    ],
+    "Complete": [
+      null,
+      "Afslut"
+    ],
+    "Complete registration": [
+      null,
+      "Færdiggør registreringsprocessen"
+    ],
+    "Confirm": [
+      null,
+      "Bekræft"
+    ],
+    "Confirm new email address": [
+      null,
+      "Bekræft ny e-mailadresse"
+    ],
+    "Confirm new password": [
+      null,
+      "Bekræft nyt kodeord"
+    ],
+    "Congratulations! A new car has been added to your account. Please take a moment to review and confirm the data collection for your newly added car.": [
+      null,
+      "Tillykke! En ny bil er blevet tilføjet til din konto. Brug venligst et øjeblik på at gennemgå og bekræfte dataopsamlingen for din nyligt tilføjede bil."
+    ],
+    "Connect": [
+      null,
+      "Forbind"
+    ],
+    "Connect your car": [
+      null,
+      "Forbind din bil"
+    ],
+    "Continue": [
+      null,
+      "Fortsæt"
+    ],
+    "Cookie policy": [
+      null,
+      "Cookiepolitik"
+    ],
+    "Couldn’t load view.": [
+      null,
+      "Kunne ikke hente siden."
+    ],
+    "Crash detected": [
+      null,
+      "Ulykke registreret"
+    ],
+    "Create account": [
+      null,
+      "Opret konto"
+    ],
+    "Critical warning": [
+      null,
+      "Kritisk Advarsel"
+    ],
+    "Current car status shows you the information about your car's general health and location. This feature lets you stay on top of things and notifies you if anything is wrong. Current status is required to use {brand}.": [
+      null,
+      "Nuværende status viser dig informationer omkring din bils generelle helbred og lokation. Denne funktion giver dig et let overblik og giver dig besked, hvis der er noget galt. Nuværende status er påkrævet for at have {brand}."
+    ],
+    "CURRENT DEVICE": [
+      null,
+      "NUVÆRENDE ENHED"
+    ],
+    "Current password": [
+      null,
+      "Nuværende kodeord"
+    ],
+    "Current status": [
+      null,
+      "Aktuel status"
+    ],
+    "Currently snoozed": [
+      null,
+      "Snooze aktiv"
+    ],
+    "Data collection": [
+      null,
+      "Dataopsamling"
+    ],
+    "Data is no longer being sent to {service}": [
+      null,
+      "Data bliver ikke længere sendt til {service}"
+    ],
+    "Data Settings": [
+      null,
+      "Dataindstillinger"
+    ],
+    "day": [
+      "days",
+      "dag",
+      "dage"
+    ],
+    "DAYS": [
+      null,
+      "DAGE"
+    ],
+    "Detected {ago}": [
+      null,
+      "Registreret {ago}"
+    ],
+    "Devices that have logged in on your account": [
+      null,
+      "Enheder der har logget ind på din konto"
+    ],
+    "Directions": [
+      null,
+      "Vis vej"
+    ],
+    "Disabled": [
+      null,
+      "Deaktiveret"
+    ],
+    "Disconnect": [
+      null,
+      "Afbryd"
+    ],
+    "Dismiss": [
+      null,
+      "Fjern"
+    ],
+    "Distance": [
+      null,
+      "Afstand"
+    ],
+    "Do you need help?": [
+      null,
+      "Har du brug for hjælp?"
+    ],
+    "Do you want to remove {carName}?": [
+      null,
+      "Ønsker du at fjerne {carName}?"
+    ],
+    "Don't have an account?": [
+      null,
+      "Har du ikke en konto?"
+    ],
+    "Done!": [
+      null,
+      "Færdig!"
+    ],
+    "Download update": [
+      null,
+      "Download opdatering"
+    ],
+    "E-mail address": [
+      null,
+      "E-mailadresse"
+    ],
+    "Easy parking with EasyPark": [
+      null,
+      "Nem parkering med EasyPark"
+    ],
+    "Email": [
+      null,
+      "E-mail"
+    ],
+    "EMAIL": [
+      null,
+      "E-MAIL"
+    ],
+    "Email already exists": [
+      null,
+      "E-mailadressen findes allerede"
+    ],
+    "Enabled": [
+      null,
+      "Aktiveret"
+    ],
+    "End snooze": [
+      null,
+      "Slut snooze"
+    ],
+    "Engine": [
+      null,
+      "Motor"
+    ],
+    "Engine status": [
+      null,
+      "Motor status"
+    ],
+    "Engine warning light detected": [
+      null,
+      "Motorlampe registreret"
+    ],
+    "Enter your e-mail to get a link to reset your password": [
+      null,
+      "Skriv din e-mail for at få et link til gendannelse af kodeord"
+    ],
+    "Error": [
+      null,
+      "Fejl"
+    ],
+    "Error codes and regular technical information about the vehicle": [
+      null,
+      "Fejlkoder og tekniske oplysninger om bilen løbende"
+    ],
+    "Every now and again, in addition to notifying you about your vehicle’s requirements, we would like to send you news and offers tailored to your needs and mobility requirements.\n\nWe would therefore like your permission to send you marketing material about cars, accessories, leasing, car hire and mobility services by post, email or text message, through the app or on social media.\n\nYou will receive newsletters and other marketing material from companies in [Semler Group A/S](http://semler.dk/semler-gruppen/om-semler-gruppen/) and [authorised Volkswagen, Audi, Skoda and SEAT dealers and service partners in Denmark](https://connectedcars.io/list-of-workshops).\n\nYou may withdraw your consent at any time under notification settings in the app.\n\nYou give your consent by clicking “Yes, please”.": [
+      null,
+      "Udover at underrette dig om din bils behov vil vi gerne fra tid til anden kontakte dig med nyheder og tilbud, som er tilpasset dig og dine mobilitetsbehov.\n\nDerfor vil vi gerne have lov til at kontakte dig via post, e-mail, SMS, app eller på sociale medier med markedsføring vedrørende biler, biltilbehør, leasing, leje og mobilitetsydelser.\n\nDu vil kunne modtage nyhedsbreve og anden markedsføring fra selskaber under [Semler Gruppen A/S](http://semler.dk/semler-gruppen/om-semler-gruppen/) og [autoriserede Volkswagen, Audi, Skoda og SEAT forhandlere og servicepartnere i Danmark](https://connectedcars.io/list-of-workshops).\n\nDu kan altid tilbagekalde dit samtykke i app’en under notifikationsindstillinger.\n\nVed at trykke “Ja tak” giver du samtykke hertil."
+    ],
+    "Feature updates": [
+      null,
+      "Opdateringer"
+    ],
+    "Find exciting apps you can connect with {brand}": [
+      null,
+      "Find spændende apps du kan forbinde med {brand}"
+    ],
+    "First name": [
+      null,
+      "Fornavn"
+    ],
+    "Forgot password": [
+      null,
+      "Glemt kodeord"
+    ],
+    "Forgot Password": [
+      null,
+      "Glemt kodeord"
+    ],
+    "Friday": [
+      null,
+      "Fredag"
+    ],
+    "Fuel": [
+      null,
+      "Brændstof"
+    ],
+    "Fuel Consumed": [
+      null,
+      "Brændstof brugt"
+    ],
+    "Fuel level": [
+      null,
+      "Brændstofniveau"
+    ],
+    "Fuel Level": [
+      null,
+      "Brændstofniveau"
+    ],
+    "Fuel level is": [
+      null,
+      "Brændstofniveau er"
+    ],
+    "Fuel status": [
+      null,
+      "Brændstofniveau"
+    ],
+    "Fuel status is": [
+      null,
+      "Brændstofniveau"
+    ],
+    "Fuel usage": [
+      null,
+      "Brændstofforbrug"
+    ],
+    "Get connected!": [
+      null,
+      "Bliv forbundet!"
+    ],
+    "Get directions": [
+      null,
+      "Vis vejen"
+    ],
+    "Get help to stop your payment when you turn on your car": [
+      null,
+      "Få hjælp til at stoppe betaling når du tænder din bil"
+    ],
+    "Get push notifications when you park near a payment area": [
+      null,
+      "Få notifikationer når du parkerer i et betalingsområde"
+    ],
+    "Get reset link": [
+      null,
+      "Få nulstillingslink"
+    ],
+    "Get started!": [
+      null,
+      "Kom godt i gang!"
+    ],
+    "Go back": [
+      null,
+      "Gå tilbage"
+    ],
+    "Go to {domain}": [
+      null,
+      "Gå til {domain}"
+    ],
+    "Go to {service}": [
+      null,
+      "Gå til {service}"
+    ],
+    "Go to My ALD": [
+      null,
+      "Gå til My ALD"
+    ],
+    "Go to My NF Fleet": [
+      null,
+      "Gå til My NF Fleet"
+    ],
+    "History": [
+      null,
+      "Historik"
+    ],
+    "hour": [
+      "hours",
+      "time",
+      "timer"
+    ],
+    "I need help": [
+      null,
+      "Jeg behøver hjælp"
+    ],
+    "I've already booked": [
+      null,
+      "Jeg har allerede booket"
+    ],
+    "If you are having trouble with your car you can receive help from {roadsideBrand} Roadside Assistance.\n\nYour car will be picked up and moved to the nearest {roadsideBrand} workshop where your car will be in good hands.": [
+      null,
+      "Hvis du har problemer med din bil, kan du få hjælp fra {roadsideBrand} Vejhjælp.\n\nDin bil bliver afhentet og flyttet til nærmeste {roadsideBrand} værksted, hvor din bil vil være i gode hænder."
+    ],
+    "If you are no longer the primary user of the car you can remove it from your account": [
+      null,
+      "Hvis du ikke længere er den primære bruger af bilen, kan du fjerne den fra din konto"
+    ],
+    "If you don't receive notifications you might have turned them off in Settings": [
+      null,
+      "Hvis du ikke modtager noget notifikationer kan det være du har slået dem fra i Indstillinger"
+    ],
+    "If you see any warning lamps in your vehicle's dashboard that we haven't informed you about, then report it here.": [
+      null,
+      "Hvis du ser en advarselslampe i bilens instrumentbræt, som vi ikke har informeret dig om, så rapporter den venligst her."
+    ],
+    "If you want to report a warning light that we have not notified you about, please click here.": [
+      null,
+      "Ser du en advarselslampe, som vi ikke har informeret dig om, så klik her."
+    ],
+    "Ignition on/off": [
+      null,
+      "Tænding til/fra"
+    ],
+    "Ignored parking areas": [
+      null,
+      "Ignorerede parkeringsområder"
+    ],
+    "IGNORED PARKING AREAS": [
+      null,
+      "IGNOREREDE PARKERINGSPLADSER"
+    ],
+    "In order to be able to deliver the key services provided by {appName}, we need to collect the following data from your; **{carName}**.": [
+      null,
+      "For at kunne levere de centrale tjenester i {appName}, har vi behov for at indsamle følgende oplysninger fra din bil, **{carName}**."
+    ],
+    "In order to be able to deliver the key services provided by {appName}, we require your consent for My Preferred workshop to send marketing material via text message and email and through the app about your vehicle’s requirements (service or repair). You may withdraw your consent at any time. However, if you do so, you will no longer be able to use the {appName} app (see our [terms](https://connectedcars.io/user-terms/en)).": [
+      null,
+      "For at kunne levere de centrale tjenester i {appName} er det nødvendigt, at du giver samtykke til at modtage markedsføring via SMS, email og direkte i applikationen om din bils behov (service eller reparation) fra dit Foretrukne Værksted. Samtykket kan altid tilbagekaldes, men hvis du tilbagekalder samtykket, kan du ikke længere anvende {appName}-app’en (se vores [brugerbetingelser](https://connectedcars.io/user-terms/da))."
+    ],
+    "In the center of cities, up to 40% of traffic is generated by drivers who are looking for a parking spot. The environmental impact of millions of cars driving in circles in pursuit of a parking spot is currently burning about one million barrels of the world’s oil every day, creating a huge amount of unnecessary pollution.\n\nCartime’s new solution will significantly reduce driving time and traffic in city centers by making registration and payment of parking interactions free - optimizing the availability of parking spots. With Cartime, every motorist saves precious minutes at each parking, which ultimately helps to increase the speed of the city centers.": [
+      null,
+      "I centrum af byer genereres op til 40% af trafikken af bilister, der leder efter en parkeringsplads. Miljøpåvirkningen af millioner af biler, der går i cirkler i forfølgelsen af en parkeringsplads, brænder for øjeblikket omkring en million tønder af verdens olie af hver dag, og skaber en enorm mængde unødvendig forurening.\nCartime’s nye løsning vil betydeligt reducere køretid og trafikbelastning inden for bycentre ved at gøre registreringen og betalingen af parkeringer interaktionsfri - hvorved parkeringspladsernes tilgængelighed optimeres. Med Cartime sparer hver bilist dyrebare minutter ved hver parkering, hvilket i sidste ende hjælper med at øge omløbshastigheden i bycentre."
+    ],
+    "Incident expired": [
+      null,
+      "Fejlhændelse udløbet"
+    ],
+    "Incident Warnings": [
+      null,
+      "Fejlmeddelelse"
+    ],
+    "Incorrect email or password": [
+      null,
+      "Forkert e-mail eller adgangskode"
+    ],
+    "Insurance": [
+      null,
+      "Forsikring"
+    ],
+    "Is one or more warning lights still lit?": [
+      null,
+      "Lyser én eller flere advarselslamper stadig?"
+    ],
+    "Is the {lamp} warning light flashing?": [
+      null,
+      "Blinker {lamp} advarselslampen?"
+    ],
+    "Is your car unable to drive or start? Get help here": [
+      null,
+      "Kan din bil ikke køre eller starte? Få hjælp her"
+    ],
+    "It's time for your car to be serviced.\n\nBased on your current driving style, your car needs servicing before {date}.\n\nBook now to secure a time that suits you.": [
+      null,
+      "Det er tid til, at din bil skal til service.\n\nBaseret på din aktuelle kørselsstil, skal din bil serviceres inden {date}.\n\nBook med det samme for at sikre dig en passende tid."
+    ],
+    "Language": [
+      null,
+      "Sprog"
+    ],
+    "Last login: ": [
+      null,
+      "Seneste log ind: "
+    ],
+    "Last name": [
+      null,
+      "Efternavn"
+    ],
+    "Latest Trip": [
+      null,
+      "Seneste tur"
+    ],
+    "Learn more": [
+      null,
+      "Læs mere"
+    ],
+    "Leasing": [
+      null,
+      "Leasing"
+    ],
+    "Legal": [
+      null,
+      "Jura"
+    ],
+    "License plate": [
+      null,
+      "Nummerplade"
+    ],
+    "License Plate": [
+      null,
+      "Nummerplade"
+    ],
+    "liter": [
+      "liters",
+      "liter",
+      "liter"
+    ],
+    "liters": [
+      null,
+      "liter"
+    ],
+    "Loading": [
+      null,
+      "Indlæser"
+    ],
+    "Location": [
+      null,
+      "Lokation"
+    ],
+    "Lock status": [
+      null,
+      "Låsestatus"
+    ],
+    "Lock status is currently only available for up to 5 minutes after the car has been switched off. If you lock the car after these 5 minutes, it might still read as unlocked.": [
+      null,
+      "Låsestatus kan på nuværende tidspunkt kun aflæses i op til 5 minutter efter bilen er slukket. Låser du først bilen efter disse 5 minutter, vil appen vise bilen som ulåst."
+    ],
+    "Lock status is unfortunately not available for your car at the moment. We are continuously working on improving availability for all different models and hope to make it possible to show the lock status for your car as soon as possible.": [
+      null,
+      "Låsestatus er desværre ikke tilgængelig på din bil i øjeblikket. Vi arbejder løbende med at forbedre tilgængeligheden på alle modeller og håber på at have låsestatus tilgængelig på din bil så snart som muligt."
+    ],
+    "locked": [
+      null,
+      "låst"
+    ],
+    "Locked": [
+      null,
+      "Låst"
+    ],
+    "Locked status currently": [
+      null,
+      "Låsestatus i øjeblikket"
+    ],
+    "Log in with e-mail": [
+      null,
+      "Log ind med e-mail"
+    ],
+    "Log in with Facebook": [
+      null,
+      "Log ind med Facebook"
+    ],
+    "Login": [
+      null,
+      "Log ind"
+    ],
+    "Logout": [
+      null,
+      "Log ud"
+    ],
+    "Message workshop": [
+      null,
+      "Skriv til værksted"
+    ],
+    "Messages": [
+      null,
+      "Beskeder"
+    ],
+    "Mileage": [
+      null,
+      "Kilometerstand"
+    ],
+    "Minor warning": [
+      null,
+      "Mindre advarsel"
+    ],
+    "Missing notifications?": [
+      null,
+      "Mangler notifikationer?"
+    ],
+    "Mobile (recommended)": [
+      null,
+      "Mobilnummer (anbefalet)"
+    ],
+    "Model": [
+      null,
+      "Model"
+    ],
+    "Monday": [
+      null,
+      "Mandag"
+    ],
+    "More": [
+      null,
+      "Mere"
+    ],
+    "Name": [
+      null,
+      "Navn"
+    ],
+    "New email": [
+      null,
+      "Ny e-mail"
+    ],
+    "New message": [
+      null,
+      "Ny besked"
+    ],
+    "New password": [
+      null,
+      "Nyt kodeord"
+    ],
+    "News & offers": [
+      null,
+      "Nyheder & tilbud"
+    ],
+    "Next": [
+      null,
+      "Næste"
+    ],
+    "Next oil change": [
+      null,
+      "Næste olieskift"
+    ],
+    "Next oil change:": [
+      null,
+      "Næste olieskift:"
+    ],
+    "Next service": [
+      null,
+      "Næste service"
+    ],
+    "Next service:": [
+      null,
+      "Næste service:"
+    ],
+    "No": [
+      null,
+      "Nej"
+    ],
+    "No notifications yet...": [
+      null,
+      "Ingen notifikationer endnu..."
+    ],
+    "No thanks": [
+      null,
+      "Nej tak"
+    ],
+    "No thanks, remove all cars": [
+      null,
+      "Nej tak, fjern alle biler"
+    ],
+    "No thanks, remove the car": [
+      null,
+      "Nej tak, fjern bilen"
+    ],
+    "No warning lights": [
+      null,
+      "Ingen advarselslamper"
+    ],
+    "NONE": [
+      null,
+      "INGEN"
+    ],
+    "not available": [
+      null,
+      "ikke tilgængelig"
+    ],
+    "Not sure what we read from your car, or how?": [
+      null,
+      "I tvivl om, hvad der bliver læst fra din bil eller hvordan?"
+    ],
+    "Notifications": [
+      null,
+      "Notifikationer"
+    ],
+    "Odometer": [
+      null,
+      "Kilometerstand"
+    ],
+    "Ok": [
+      null,
+      "Ok"
+    ],
+    "OK": [
+      null,
+      "OK"
+    ],
+    "Old email": [
+      null,
+      "Nuværende e-mail"
+    ],
+    "Oops! Something went wrong.": [
+      null,
+      "Ups! Noget gik galt."
+    ],
+    "Open": [
+      null,
+      "Åben"
+    ],
+    "Open until ": [
+      null,
+      "Åben til "
+    ],
+    "Opening Hours": [
+      null,
+      "Åbningstider"
+    ],
+    "or": [
+      null,
+      "eller"
+    ],
+    "Other clever apps": [
+      null,
+      "Andre smarte apps"
+    ],
+    "Overdue by {distance} km": [
+      null,
+      "Forfaldne med {distance} km"
+    ],
+    "Overdue by {n} day": [
+      "Overdue by {n} days",
+      "Forfaldne senest {n} dag",
+      "Forfaldne senest {n} dage"
+    ],
+    "Parking assistant": [
+      null,
+      "Parkeringsassistent"
+    ],
+    "Partially Enabled": [
+      null,
+      "Delvist aktiveret"
+    ],
+    "Partnerships": [
+      null,
+      "Partnerskaber"
+    ],
+    "Password": [
+      null,
+      "Kodeord"
+    ],
+    "Pay with EasyPark": [
+      null,
+      "Betal med EasyPark"
+    ],
+    "Personal information": [
+      null,
+      "Personlig information"
+    ],
+    "Phone": [
+      null,
+      "Telefon"
+    ],
+    "Please contact support@connectedcars.dk if the problem keeps reoccurring. We received the following error:\n\n {error}": [
+      null,
+      "Kontakt venligst support@connectedcars.dk, hvis problemet gentager sig. Vi modtog denne fejl:\n\n{error}"
+    ],
+    "Please make sure that the email and password is input correctly": [
+      null,
+      "Tjek at e-mail og adgangskode er indtastet korrekt"
+    ],
+    "Please select the warning light(s) you have observed": [
+      null,
+      "Vælg venligst de advarselslamper du har set"
+    ],
+    "Please select your workshop": [
+      null,
+      "Vælg venligst dit værksted"
+    ],
+    "Please try again later.": [
+      null,
+      "Prøv venligst igen senere."
+    ],
+    "Possible incident": [
+      null,
+      "Mulig fejlhændelse"
+    ],
+    "Possible incident detected": [
+      null,
+      "Mulig fejlhændelse registreret"
+    ],
+    "Privacy": [
+      null,
+      "Privatliv"
+    ],
+    "Privacy policy": [
+      null,
+      "Privatlivspolitik"
+    ],
+    "Profile": [
+      null,
+      "Profil"
+    ],
+    "PUSH": [
+      null,
+      "PUSH"
+    ],
+    "Push Is Disabled": [
+      null,
+      "Push er deaktiveret"
+    ],
+    "Push notification": [
+      null,
+      "Push-beskeder"
+    ],
+    "Read and accept our Conditions of Use, Privacy Policy, and Cookie Policy.": [
+      null,
+      "Læs og bekræft vores brugerbetingelser, privatlivspolitik og cookiepolitik."
+    ],
+    "Read more about the service": [
+      null,
+      "Læs mere om tjenesten"
+    ],
+    "Receive notifications when it’s time to book your car for service to make sure that you never miss a required service.": [
+      null,
+      "Modtag notifikation, når det er tid til at booke service for at sikre, at du aldrig misser påkrævet service."
+    ],
+    "Receive notifications when new features and services are added to the app.": [
+      null,
+      "Modtag notifikation, når der kommer nye funktioner eller services i appen."
+    ],
+    "Receive notifications when we detect an error on your vehicle.": [
+      null,
+      "Modtag notifikationer når vi opdager en fejl i din bil."
+    ],
+    "Receive notifications when your service partner messages you in the app to easily get expert help.": [
+      null,
+      "Modtag notifikationer, når din servicepartner skriver til dig i appen."
+    ],
+    "Receive notifications with offers and services for you and your car": [
+      null,
+      "Modtag notifikation med tilbud og services til dig og din bil"
+    ],
+    "Red": [
+      null,
+      "Rød"
+    ],
+    "Register": [
+      null,
+      "Registrer"
+    ],
+    "Register with e-mail": [
+      null,
+      "Registrer med e-mail"
+    ],
+    "Related to {system}": [
+      null,
+      "Relateret til {system}"
+    ],
+    "Remind me about payment": [
+      null,
+      "Mind mig om betaling"
+    ],
+    "Reminder": [
+      null,
+      "Påmindelse"
+    ],
+    "Remove": [
+      null,
+      "Fjern"
+    ],
+    "REMOVE": [
+      null,
+      "FJERN"
+    ],
+    "Remove car": [
+      null,
+      "Fjern bil"
+    ],
+    "Remove my car": [
+      null,
+      "Fjern min bil"
+    ],
+    "Remove Photo": [
+      null,
+      "Fjern foto"
+    ],
+    "Report warning lamp": [
+      null,
+      "Rapporter advarselslampe"
+    ],
+    "Report warning light": [
+      null,
+      "Rapporter advarselslampe"
+    ],
+    "Reported": [
+      null,
+      "Rapporteret"
+    ],
+    "Reported {ago}": [
+      null,
+      "Indrapporteret {ago}"
+    ],
+    "Reported warning light": [
+      null,
+      "Indrapporteret advarselslampe"
+    ],
+    "Required": [
+      null,
+      "Obligatorisk"
+    ],
+    "Retry": [
+      null,
+      "Prøv igen"
+    ],
+    "Roadside assistance": [
+      null,
+      "Ring til vejhjælp"
+    ],
+    "Saturday": [
+      null,
+      "Lørdag"
+    ],
+    "Search...": [
+      null,
+      "Søg…"
+    ],
+    "Security and login": [
+      null,
+      "Sikkerhed og login"
+    ],
+    "Send": [
+      null,
+      "Send"
+    ],
+    "Service": [
+      null,
+      "Service"
+    ],
+    "Service recommendation": [
+      null,
+      "Service anbefalinger"
+    ],
+    "Service recommended": [
+      null,
+      "Service anbefalet"
+    ],
+    "Service recommended now": [
+      null,
+      "Service anbefales nu"
+    ],
+    "Service recommended within {days} days": [
+      null,
+      "Service anbefales inden {days} dage"
+    ],
+    "Settings": [
+      null,
+      "Indstillinger"
+    ],
+    "Share the following data from your {brand} account with {service}": [
+      null,
+      "Del følgende data fra din {brand} konto med {service}"
+    ],
+    "Shop": [
+      null,
+      "Shop"
+    ],
+    "Showing results for ´{query}´": [
+      null,
+      "Viser resultater for ´{query}´"
+    ],
+    "Sign up": [
+      null,
+      "Opret profil"
+    ],
+    "Skip": [
+      null,
+      "Spring over"
+    ],
+    "SMS": [
+      null,
+      "SMS"
+    ],
+    "Snooze location": [
+      null,
+      "Snooze lokation"
+    ],
+    "Snooze until {until}": [
+      null,
+      "Snooze indtil {until}"
+    ],
+    "Snooze your car’s location to prevent any GPS data from being stored for a set period of time. It’s possible to snooze for up to 24 hours at a time.\n\nWhen you snooze you’re losing access to the location feature.\n\nYou can always end snooze early.": [
+      null,
+      "Snooze din bils lokation for at forhindre, at GPS data bliver gemt for en periode. Det er muligt at snooze i op til 24 timer ad gangen.\n\nNår du snoozer mister du adgang til lokationsrelaterede features.\n\nDu kan altid slutte snooze manuelt."
+    ],
+    "So your car broke down? What now? We’re here to help": [
+      null,
+      "Din bil er brudt ned? Hvad nu? Vi er her for at hjælpe"
+    ],
+    "Solid": [
+      null,
+      "Lyser konstant"
+    ],
+    "Something went wrong": [
+      null,
+      "Noget gik galt"
+    ],
+    "Something went wrong. Please try again later.": [
+      null,
+      "Noget gik galt. Prøv venligst igen senere."
+    ],
+    "Status": [
+      null,
+      "Status"
+    ],
+    "Status of my car": [
+      null,
+      "Status på min bil"
+    ],
+    "Still lit": [
+      null,
+      "Lyser stadig"
+    ],
+    "Stop the car, turn ignition off, and consult your workshop or roadside assistance immediately for further help.": [
+      null,
+      "Stop bilen, sluk motoren og kontakt værkstedet eller vejhjælp omgående for yderligere vejledning."
+    ],
+    "Sunday": [
+      null,
+      "Søndag"
+    ],
+    "Support": [
+      null,
+      "Support"
+    ],
+    "System Check": [
+      null,
+      "Systemtjek"
+    ],
+    "Systems checked ok": [
+      null,
+      "Systemtjek ok"
+    ],
+    "Systems overview": [
+      null,
+      "Systemoverblik"
+    ],
+    "Take Photo": [
+      null,
+      "Tag foto"
+    ],
+    "Technical help": [
+      null,
+      "Hjælp"
+    ],
+    "Terms": [
+      null,
+      "Betingelser"
+    ],
+    "Terms and conditions": [
+      null,
+      "Brugerbetingelser"
+    ],
+    "Thank you for reporting the incident and helping us improve {brand}.\n\nThe incident may be serious. Please contact the workshop as soon as possible for more information.": [
+      null,
+      "Tak fordi du indrapporterede hændelsen til dit værksted og for at hjælpe os med at forbedre {brand}.\n\nHændelsen er muligvis alvorlig. Kontakt venligst dit værksted hurtigst muligt for mere information."
+    ],
+    "Thank you for reporting the incident to your workshop and helping us improve {brand}.\n\nIf there are no red or yellow warning lights lit in your dashboard you can drive on safely.\n\nFeel free to leave a note to the workshop if needed.": [
+      null,
+      "Tak fordi du indrapporterede hændelsen til dit værksted og for at hjælpe os med at forbedre {brand}.\n\nDu kan trygt køre videre i din bil såfremt der ikke længere lyser nogen røde eller gule advarselslamper i dit instrumentbord.\n\nDu er velkommen til at skrive en besked til værkstedet."
+    ],
+    "Thank you!": [
+      null,
+      "Tak!"
+    ],
+    "The email already exists in our system. Please make sure that you don't already have a user or log in instead.": [
+      null,
+      "Denne e-mail findes allerede i vores system. Bekræft, at du ikke allerede er oprettet eller log ind i stedet."
+    ],
+    "The error may be serious. Please contact the workshop as soon as possible for more information.": [
+      null,
+      "Fejlen kan være alvorlig. Kontakt venligst værkstedet eller vejhjælp for mere information."
+    ],
+    "The following systems are being checked in your car": [
+      null,
+      "Følgende systemer tjekkes i din bil"
+    ],
+    "The fuel level shows your car's remaining fuel in liters. It will update every time you switch your car on or off.": [
+      null,
+      "Brændstofniveau viser, hvor mange liter brændstof der er tilbage i din bil. Den opdateres, hver gang du starter og stopper bilen."
+    ],
+    "The GPS position of the vehicle while driving and when parked": [
+      null,
+      "GPS-position fra bilen under kørsel og ved parkering"
+    ],
+    "The incident have expired and everything seems to be ok again.\n\nIf you’re having issues or a dashboard lamp is still lit then message the workshop or report the warning light.": [
+      null,
+      "Fejlhændelsen er udløbet og alt synes at være ok igen.\n\nHvis du fortsat oplever problemer eller har en advarselslampe som lyser i instrumentbordet, så skriv til værkstedet eller rapporter en advarselslampe i appen."
+    ],
+    "The lock status shows the last known state we received from your car up to 10 minutes after you turned it off. If you locked it after the 10 minutes, it might display it as unlocked.\n\nTurn the car on again to update the lock status.": [
+      null,
+      "Låsestatus viser den seneste tilstand vi har modtaget fra din bil op til 10 minutter efter du har slukket den. Hvis du låser bilen, og der er gået mere end 10 minutter siden du slukkede, kan den være vist som ulåst.\n\nTænd bilen igen for at opdatere låsestatus."
+    ],
+    "The most convenient app to start, stop and extend your parking all over Denmark and Europe made even easier.\n\nBy connecting with EasyPark you can get notified when you park in or nearby payment zones and get help to stop your parking automatically. This is a help, not a guarantee so keep an eye out for a confirmation a little while after you start your car.": [
+      null,
+      "Den bedste app til at starte, stoppe og forlænge parkering i Danmark og Europa gjort endnu bedre.\n\nVed at forbinde med EasyPark kan du blive notificeret, når du parkerer i og i nærheden af betalingszoner og få hjælp til at stoppe din parkering automatisk. Dette er en hjælp og ikke en garanti så hold øje med en bekræftelse umiddelbart efter du har startet bilen."
+    ],
+    "This feature gives your preferred workshop access to read some of the data coming from your car so you can get technical help. This also allows services like prefilling booking forms. Technical help is required to use {brand}.": [
+      null,
+      "Denne funktion giver dit foretrukne værksted mulighed for at kunne læse noget af det data der kommer fra din bil, så du kan få teknisk hjælp. Funktionen gør det også muligt at kunne præudfylde ting såsom booking anmodning. Teknisk hjælp er påkrævet for at bruge {brand}."
+    ],
+    "This feature requires push notifications, change your notification preferences to enable this setting.": [
+      null,
+      "Denne funktion kræver push-beskeder, slå det til i dine notifikationsindstillinger for at aktivere denne funktion."
+    ],
+    "This incident has timed out.": [
+      null,
+      "Fejlhændelsen er udløbet."
+    ],
+    "This parking reminder has timed out.": [
+      null,
+      "Denne parkeringspåmindelse er udløbet."
+    ],
+    "This reminder has timed out.": [
+      null,
+      "Denne påmindelse er udløbet."
+    ],
+    "This shows how many liters of fuel there is in you car. The green bar indicator shows how many percent the liters equate to.\n\nPlease fill up your tank a couple of times to calibrate the green bar indicator.": [
+      null,
+      "Dette viser hvor mange liter brændstof der er tilbage i din bil."
+    ],
+    "Thursday": [
+      null,
+      "Torsdag"
+    ],
+    "time": [
+      null,
+      "tid"
+    ],
+    "Time for service": [
+      null,
+      "Tid til service"
+    ],
+    "Total mileage": [
+      null,
+      "Kilometerstand"
+    ],
+    "Total time": [
+      null,
+      "Total tid"
+    ],
+    "Trip map": [
+      null,
+      "Turkort"
+    ],
+    "Trips": [
+      null,
+      "Ture"
+    ],
+    "Trips allows you to keep track of your cars trips. You can see where you have driven, how far, how long and how much gas you’ve used. Trip map is required to enable the feature.": [
+      null,
+      "Ture giver dig mulighed for at holde styr på din bils ture. Du kan se, hvor den har kørt, hvor langt, hvor lang tid og hvor meget brændstof der er blevet brugt. Turkort er påkrævet for at slå funktionen til."
+    ],
+    "Tuesday": [
+      null,
+      "Tirsdag"
+    ],
+    "Turn your car on\nagain to update the lock status.": [
+      null,
+      "Start bilen igen\nfor at opdatere låsestatus."
+    ],
+    "Type message": [
+      null,
+      "Skriv besked"
+    ],
+    "Unable to complete logout. Please make sure you have an active internet connection and try again.": [
+      null,
+      "Kunne ikke logge ud. Tjek venligst at du har en aktiv internetforbindelse og prøv igen."
+    ],
+    "Unable to ignore parking area. Make sure you are connected to the internet and try again.": [
+      null,
+      "Ikke i stand til at ignorere parkeringsområdet. Sørg for, at du er forbundet til internettet og prøv igen."
+    ],
+    "Unable to load messages": [
+      null,
+      "Kan ikke indlæse meddelelser"
+    ],
+    "Unable to reinstate parking area. Make sure you are connected to the internet and try again.": [
+      null,
+      "Ikke muligt at genindsætte parkeringsplads. Sørg for du er forbundet til internettet og prøv igen."
+    ],
+    "Unable to upload image, please try again later": [
+      null,
+      "Ikke muligt at uploade billede, prøv venligst igen senere"
+    ],
+    "Unit position\nOdometer": [
+      null,
+      "Enhedens position\nKilometerstand"
+    ],
+    "unknown": [
+      null,
+      "ukendt"
+    ],
+    "unlocked": [
+      null,
+      "ulåst"
+    ],
+    "Unlocked": [
+      null,
+      "Åben"
+    ],
+    "Update email": [
+      null,
+      "Opdater e-mail"
+    ],
+    "Update name": [
+      null,
+      "Opdater navn"
+    ],
+    "Update password": [
+      null,
+      "Opdater kodeord"
+    ],
+    "Update phone": [
+      null,
+      "Opdater telefonnummer"
+    ],
+    "Updated {when}": [
+      null,
+      "Opdateret {when}"
+    ],
+    "Updates": [
+      null,
+      "Opdateringer"
+    ],
+    "Updating": [
+      null,
+      "Opdaterer"
+    ],
+    "Updating your vehicle data": [
+      null,
+      "Opdaterer din bildata"
+    ],
+    "User": [
+      null,
+      "Bruger"
+    ],
+    "VAT: {vatAmount} {currency}": [
+      null,
+      "Moms: {vatAmount} {currency}"
+    ],
+    "Want to stop sending data?": [
+      null,
+      "Vil du stoppe med at sende data?"
+    ],
+    "Warning": [
+      null,
+      "Advarsel"
+    ],
+    "Warning lamp reported": [
+      null,
+      "Advarselslampe indrapporteret"
+    ],
+    "Warning light is off": [
+      null,
+      "Advarselslampen er slukket"
+    ],
+    "We are adding a lot of partnerships really soon, for your benefit.\n\nFor example:\n\n    -    Drivers log\n    -    Fuel consumption\n    -    Insurance\n    -    Parking": [
+      null,
+      "Vi tilføjer en masse partnerskaber snart, som du kan få glæde af.\n\nFor eksempel:\n\n    -    \tKørebog\n    -    \tBrændstof forbrug\n    -    \tForsikring\n    -    \tParkering"
+    ],
+    "We care about your privacy, so with features that are using your personal data we want to ensure that you know what is collected and have given your consent before we collect or use your data.\n\nPlease take a couple of minutes to review your data settings.": [
+      null,
+      "Vi bekymrer os om din ret til privatliv. Når der kommer nye funktioner, der bruger din personlige data, vil vi gerne sikre os, at du ved hvad der bliver opsamlet og har givet tilladelse til, før vi begynder at samle data ind.\n\nGennemgå venligst dine datadelings indstillinger."
+    ],
+    "We constantly improve the user experience of the app and therefore we would like to see how you use it. Feel free to send suggestions to feedback@connectedcars.io": [
+      null,
+      "Vi forbedrer løbende brugeroplevelsen af appen og derfor vil vi gerne se, hvordan du bruger den. Send gerne forslag til feedback@connectedcars.io"
+    ],
+    "We could not deliver your message. Please make sure you have an internet connection and try sending again.": [
+      null,
+      "Vi kunne ikke levere din besked. Kontroller, at du har en internetforbindelse og prøv at sende igen."
+    ],
+    "We got all your {brand} needs just 1-click away": [
+      null,
+      "Vi har alt til din {brand}, kun et klik væk"
+    ],
+    "We have made some changes. To use all the features in the app you need to update. This is to ensure that you can enjoy new features and keep the user experience as smooth as possible.\n\nUpdate so you can enjoy the app again.": [
+      null,
+      "Vi har lavet nogle ændringer. For at udnytte alle features i appen skal den opdateres. Dette er for at sikre, at du kan få glæde af nye features og få den bedst mulige oplevelse.\n\nOpdater så du kan få glæde af appen igen."
+    ],
+    "We have stopped your parking": [
+      null,
+      "Vi har stoppet din parkering"
+    ],
+    "We keep track of your engine’s status.\n\nShould you experience an engine lamp that we didn’t register, then contact your workshop or report the lamp below.": [
+      null,
+      "Vi holde styr på din motors status.\n\nHvis du oplever en motor lampe, vi ikke har registreret, så kontakt dit værksted eller rapport lampen nedenfor."
+    ],
+    "We measure several key systems in your car. To see what systems we support, please go to the systems overview.": [
+      null,
+      "Vi måler på flere centrale systemer i din bil. Få flere informationer om de systemer vi overvåger i din bil ved at klikke på systemoverblik."
+    ],
+    "We're ready to start sending data. Now we just need you to sign up with {service} or sign in and everything should be good to go": [
+      null,
+      "Vi er klar til at sende data. Det eneste der mangler er, at du opretter en konto hos {service} og logger ind, hvorefter alting er klar"
+    ],
+    "We've sent an email to your new email address with a confirmation link. Please confirm for the change to take effect": [
+      null,
+      "Vi har sendt en e-mail til din nye e-mail-adresse med et link til bekræftelse. Bekræft venligst før ændring træder i kraft"
+    ],
+    "Wednesday": [
+      null,
+      "Onsdag"
+    ],
+    "Welcome to\n{brand}": [
+      null,
+      "Velkommen til\n{brand}"
+    ],
+    "Welcome to {brand} - It's time to connect your car. Please tap to see more": [
+      null,
+      "Velkommen til {brand} - Det er tid til at forbinde din bil. Tryk for at se mere"
+    ],
+    "Welcome to {brand}. It is time to connect your car.\n\nBook an appointment with your preferred workshop or call them to get connected. {brand} is free.": [
+      null,
+      "Velkommen til {brand}. Det er tid til at forbinde din bil.\n\nBook en tid hos dit foretrukne værksted eller ring til dem for blive forbundet. {brand} er gratis."
+    ],
+    "What color is the {lamp} warning light?": [
+      null,
+      "Hvilken farve har {lamp} advarselslampen?"
+    ],
+    "When you disconnect we stop sending data to {service}, your future trips won't be shared any longer.\n\nRemember that your subscription with {service} doesn't end automatically when you disconnect!": [
+      null,
+      "Når du afbryder dataforbindelsen til {service} vil dine fremtidige ture ikke længere blive delt.\n\nHusk at dit abonnement hos {service} ikke automatisk stopper, når du afbryder forbindelsen!"
+    ],
+    "Where’s my car": [
+      null,
+      "Hvor er min bil"
+    ],
+    "With {brand} you can get an overview of your car's trips. Message your workshop to get connected.": [
+      null,
+      "Med {brand} kan du få et overblik over din bils ture. Skriv til dit værksted for at blive forbundet."
+    ],
+    "Workshop": [
+      null,
+      "Værksted"
+    ],
+    "Workshops": [
+      null,
+      "Værksteder"
+    ],
+    "Write workshop": [
+      null,
+      "Skriv til værksted"
+    ],
+    "Yellow": [
+      null,
+      "Gul"
+    ],
+    "Yes": [
+      null,
+      "Ja"
+    ],
+    "Yes, flashing": [
+      null,
+      "Ja, blinker stadig"
+    ],
+    "Yes, My Preferred Workshop may also contact me by telephone regarding an agreement on service or repair.": [
+      null,
+      "Ja, jeg må også kontaktes af Mit Foretrukne Værksted på telefon om indgåelse af aftale om service eller reparation."
+    ],
+    "Yes, please": [
+      null,
+      "Ja tak"
+    ],
+    "Yes, still lit": [
+      null,
+      "Ja, lyser stadig"
+    ],
+    "You are receiving this message because our data suggest that there may be an incident  with your car´s {system}.\n\nHave you observed any warning light(s) in your car´s dashboard?": [
+      null,
+      "Du modtager denne besked, fordi vores data indikerer, at din bil muligvis har en fejlhændelse på {system}.\n\nHar du set en advarselslampe i din bils instrumentbord?"
+    ],
+    "You can write to your workshop about anything and also easily check if your car is ok.": [
+      null,
+      "Du kan skrive med dit værksted om hvad som helst og nemt tjekke, om din bil er ok."
+    ],
+    "You give your consent by clicking \"Accept & continue\".\n\nYou can change your notification settings in the app at any time or withdraw your consent completely by removing all of your vehicles under settings.": [
+      null,
+      "Ved at klikke “Accepter & fortsæt” giver du samtykke hertil.\n\nDu kan altid ændre på dine notifikationsindstillinger i appen eller tilbagekalde samtykket helt ved at fjerne alle dine biler under indstillinger."
+    ],
+    "You have parked near the following payment zone": [
+      "You have parked near the following payment zones",
+      "Du har parkeret i nærheden af følgende betalingsområde",
+      "Du har parkeret i nærheden af følgende betalingszoner"
+    ],
+    "You may withdraw your consent at any time by clicking on “remove vehicle” under settings in the app. You will find further details about how we process your personal data in our [privacy policy](https://connectedcars.io/privacy-policy/en).": [
+      null,
+      "Samtykket kan altid tilbagekaldes ved at “fjerne bilen” under indstillinger i appen. Du kan læse mere om, hvordan vi behandler dine personoplysninger i vores [privatlivspolitik](https://connectedcars.io/privacy-policy/da)."
+    ],
+    "You will loose access to the car permanently. Continue if you're no longer the primary user of the car": [
+      null,
+      "Du vil miste adgang til bilen permanent. Fortsæt hvis du ikke længere er den primære bruger af bilen"
+    ],
+    "Your {car} was turned on while you were still paying for parking. Here’s a quick summary of your parking:": [
+      null,
+      "Din {car} blev startet imens du stadig betalte for parkering. Her er et hurtigt overblik over din parkering:"
+    ],
+    "Your {carModel} appears to no longer be associated with this account. Please message your workshop if this is an error.": [
+      null,
+      "Din {carModel} virker ikke længere til at være tilknyttet denne konto. Skriv venligst til dit værksted hvis dette er en fejl."
+    ],
+    "Your car hasn’t logged any trips yet.\nTake your car for a spin, and we can get started creating your trip history.": [
+      null,
+      "Din bil har ikke registreret nogle ture endnu.\nKør en tur, så vi kan starte med at skabe din tur historik."
+    ],
+    "Your car is currently snoozed! Location is shown as unavailable and we won’t store any GPS data from you car in the snooze period.": [
+      null,
+      "Din bil er i øjeblikket snoozet! Lokation står som ikke tilgængelig og vi gemmer ikke GPS data for den snoozede periode."
+    ],
+    "Your car needs to be serviced regularly to ensure it's overall health. Remember that when you service your vehicle at an authorized dealership you get free roadside assistance.": [
+      null,
+      "Din bil skal serviceres jævnligt for at sikre dens generelle helbred. Husk at når du får udført service hos en autoriseret forhandler eller service partner får du gratis vejhjælp."
+    ],
+    "Your reported warning lights": [
+      null,
+      "Dine indrapporterede advarselslamper"
+    ],
+    "Your request has been sent. We will contact you within 48 hours to confirm": [
+      null,
+      "Din anmodning er blevet sendt. Vi kontakter dig inden for 48 timer med bekræftelse"
+    ],
+    "camera\u0004Cancel": [
+      null,
+      "Fortryd"
+    ]
+  },
+  "de": {
+    "": {
+      "content-type": "text/plain; charset=UTF-8",
+      "plural-forms": "nplurals=2; plural=(n != 1);",
+      "x-generator": "crowdin.com",
+      "x-crowdin-project": "connectedcars-mobileapp",
+      "x-crowdin-language": "de",
+      "x-crowdin-file": "/connectedcars-mobileapp/app/locales/template.pot",
+      "project-id-version": "connectedcars-mobileapp",
+      "last-translator": "tlbdk <troels@connectedcars.dk>",
+      "language-team": "German",
+      "language": "de",
+      "po-revision-date": "2018-07-12 14:52"
+    },
+    "[unknown]": [
+      null,
+      "[unknown]"
+    ],
+    "{amount} {currency}": [
+      null,
+      "{amount}{currency}"
+    ],
+    "{brand} is fetching new app updates": [
+      null,
+      "{brand} ruft neue App-Updates ab"
+    ],
+    "{brand} keeps you updated about your car’s health at all time.": [
+      null,
+      "{brand} hält Sie jederzeit über die Gesundheit Ihres Autos auf dem Laufenden."
+    ],
+    "{distance} km": [
+      null,
+      "{distance} Km"
+    ],
+    "{duration} min": [
+      null,
+      "{duration} Min"
+    ],
+    "{km} km": [
+      null,
+      "{km} Km"
+    ],
+    "{liters} l": [
+      null,
+      "{liters} l"
+    ],
+    "{n} day": [
+      "{n} days",
+      "{n} Tag",
+      "{n} Tag"
+    ],
+    "{n} liter": [
+      "{n} liters",
+      "{n} Liter",
+      "{n} Liter"
+    ],
+    "{NAME} reported a lamp: {LAMP}": [
+      null,
+      "{NAME} berichtet eine Lampe: {LAMP}"
+    ],
+    "{NAME} reported multiple lamps: {LAMPS}": [
+      null,
+      "{NAME} berichtete mehrere Lampen: {LAMPS}"
+    ],
+    "{speed} km/h": [
+      null,
+      "{speed} Km/H"
+    ],
+    "•\tCalculated direction\n•\tTrip time": [
+      null,
+      "• Berechnete Richtung\n• Reisezeit"
+    ],
+    "•\tFuel level": [
+      null,
+      "• Tankinhalt"
+    ],
+    "•\tOdometer": [
+      null,
+      "•Kilometerzähler"
+    ],
+    "•\tUnit position\n•\tOdometer": [
+      null,
+      "• Gerätestandpunkt \n• Kilometerzähler"
+    ],
+    "12 34 56 78": [
+      null,
+      "12 34 56 78"
+    ],
+    "A link to reset password is successfully sent to": [
+      null,
+      "Ein Link zum zurücksetzen des Passwortes wurde erfolgreich gesendet, an"
+    ],
+    "Accept": [
+      null,
+      "Akzeptieren"
+    ],
+    "Accept & continue": [
+      null,
+      "Akzeptieren & fortsetzen"
+    ],
+    "Account": [
+      null,
+      "Konto"
+    ],
+    "Additional info": [
+      null,
+      "Zusätzliche Informationen"
+    ],
+    "Allow": [
+      null,
+      "Erlauben"
+    ],
+    "Allow access to your camera to start taking photos": [
+      null,
+      "Bitte erlauben Sie den Zugriff auf Ihre Kamera, um Fotos zu machen"
+    ],
+    "Allow all": [
+      null,
+      "Alles zulassen"
+    ],
+    "Allow feedback": [
+      null,
+      "Feedback zulassen"
+    ],
+    "Allow permission": [
+      null,
+      "Zugriff erlauben"
+    ],
+    "Almost there!": [
+      null,
+      "Fast geschafft!"
+    ],
+    "Already have an account?": [
+      null,
+      "Haben Sie bereits ein Benutzerkonto?"
+    ],
+    "An error occurred please try again later!": [
+      null,
+      "Es ist ein Fehler aufgetreten. Bitte versuchen Sie es später erneut!"
+    ],
+    "An error occurred, please try again later": [
+      null,
+      "Es ist ein Fehler aufgetreten. Bitte versuchen Sie es später erneut"
+    ],
+    "APP VERSION: {version}": [
+      null,
+      "APP-VERSION: {version}"
+    ],
+    "Are you sure you want to permanently close your account?": [
+      null,
+      "Sind Sie sicher, dass Sie Ihr Benutzerkonto endgültig löschen wollen?"
+    ],
+    "Are you sure you want to remove your car?\nOnce it is removed the car is gone from your app. If you want to reactivate it you have to contact your preferred workshop.": [
+      null,
+      "Sind Sie sicher, dass Sie Ihr Auto entfernen möchten? Nachdem es entfernt wurde, verschwindet es von Ihrer app. Wenn Sie reaktivieren wollen, müssen Sie sich an Ihre bevorzugte Werkstatt wenden."
+    ],
+    "As an ALD customer, you can use My ALD - a customer portal, where you will find everything that concerns the day-to-day operation of the company car. You can send damage reviews. send in damage claims, order time for service through Servicelink and accompany both the fleet and the individual car. It is also possible to order registration certificates, red and green cards and to manage fuel cards.": [
+      null,
+      "Als ALD-Kunde können Sie My ALD nutzen - ein Kundenportal, auf dem Sie alles finden, was den täglichen Betrieb des Firmenwagens betrifft. Sie können Schadensberichte senden, Schadensansprüche einreichen, Service über Servicelink bestellen und sowohl die Flotte als auch das Einzelfahrzeug begleiten. Es ist auch möglich, Fahrzeugscheine, rote und grüne Karten zu bestellen und Tankkarten zu verwalten."
+    ],
+    "As an NF Fleet customer, you can use My NF Fleet - a customer portal, where you will find everything that concerns the day-to-day operation of the company car. You can send damage reviews. send in damage claims, order time for service through Servicelink and accompany both the fleet and the individual car. It is also possible to order registration certificates, red and green cards and to manage fuel cards.": [
+      null,
+      ""
+    ],
+    "Attention": [
+      null,
+      "Achtung"
+    ],
+    "Authorize": [
+      null,
+      "Genehmigen"
+    ],
+    "Authorized service": [
+      null,
+      "Authorisierter Service"
+    ],
+    "Automatically stop payment": [
+      null,
+      ""
+    ],
+    "Avg. speed": [
+      null,
+      "Durchschnittsgeschw"
+    ],
+    "Blinking": [
+      null,
+      "Blinken"
+    ],
+    "Book an appointment at your preferred workshop. They can read out the cars health prior to your visit": [
+      null,
+      "Vereinbaren Sie einen Termin bei Ihrer bevorzugten Werkstatt. Sie kann den Zustand des Autos vor Ihrem Besuch auslesen"
+    ],
+    "Book appointment": [
+      null,
+      "Termin buchen"
+    ],
+    "Book now": [
+      null,
+      "Jetzt buchen"
+    ],
+    "Booking": [
+      null,
+      "Buchung"
+    ],
+    "Brand": [
+      null,
+      "Hersteller"
+    ],
+    "By clicking “Accept & continue”, you give your consent for Connected Cars A/S to collect this information from the vehicle in order to deliver the services. You also give your consent for information about error codes and technical details to be forwarded for use by My Preferred Workshop for maintenance and repairs.": [
+      null,
+      "Durch Klicken auf \"Akzeptieren und fortfahren\" geben Sie Ihr Einverständnis, dass Connected Cars A / S diese Informationen vom Fahrzeug sammelt, um die Dienste liefern zu können. Sie geben Ihr Einverständnis, dass Informationen über Fehlercodes und technische Details zur Verwendung ihrer Werkstatt für Wartungs- und Reparaturarbeiten weitergeleitet werden."
+    ],
+    "By clicking Authorize, you allow {service} to use your information in accordance with their terms and condition and privacy policy. You can revoke this consent in your {brand} settings at any time.": [
+      null,
+      "Durch Klicken auf \"Autorisieren\" gestatten Sie {service}, Ihre Informationen gemäß ihren Nutzungsbedingungen und Datenschutzrichtlinien zu verwenden. Sie können diese Zustimmung jederzeit in Ihren {brand} -Einstellungen widerrufen."
+    ],
+    "By clicking continue, you confirm that you have read and understood Connected Cars’ terms and conditions": [
+      null,
+      "Wenn Sie auf \"Weiter\" klicken, bestätigen Sie, dass Sie die allgemeinen Geschäftsbedingungen von Connected Cars gelesen und verstanden haben"
+    ],
+    "Call": [
+      null,
+      "Anrufen"
+    ],
+    "Call {name}": [
+      null,
+      ""
+    ],
+    "Call roadside assistance": [
+      null,
+      "Pannenhilfe anrufen"
+    ],
+    "Call workshop": [
+      null,
+      "Werkstatt anrufen"
+    ],
+    "Cancel": [
+      null,
+      "Abbrechen"
+    ],
+    "car": [
+      null,
+      ""
+    ],
+    "Car added": [
+      null,
+      "Fahrzeug hinzugefügt"
+    ],
+    "Car details": [
+      null,
+      "Fahrzeugdetails"
+    ],
+    "Car health": [
+      null,
+      "Fahrzeugstatus"
+    ],
+    "Car information": [
+      null,
+      "Fahrzeuginformation"
+    ],
+    "Car insurance for": [
+      null,
+      "Kfz-Versicherung für"
+    ],
+    "Car is currently": [
+      null,
+      "Auto ist derzeit"
+    ],
+    "Car Lock": [
+      null,
+      ""
+    ],
+    "Car status": [
+      null,
+      ""
+    ],
+    "Change password": [
+      null,
+      "Passwort ändern"
+    ],
+    "Change Workshop": [
+      null,
+      "Werkstatt wechseln"
+    ],
+    "Chassis number": [
+      null,
+      "Fahrgestellnummer"
+    ],
+    "Check the health of your car and get notified if something changes.": [
+      null,
+      "Überprüfen Sie den Zustand Ihres Fahrzeuges und lassen Sie sich benachrichtigen, wenn sich etwas ändern sollte."
+    ],
+    "Choose from Library": [
+      null,
+      "Aus der Bibliothek auswählen"
+    ],
+    "Close": [
+      null,
+      "Schließen"
+    ],
+    "CLOSE": [
+      null,
+      "SCHLIEßEN"
+    ],
+    "Close account": [
+      null,
+      "Benutzerkonto schließen"
+    ],
+    "Closed": [
+      null,
+      "Geschlossen"
+    ],
+    "Closes your {brand} account permanently and stop receiving any updates from {brand} or your vehicle.": [
+      null,
+      "Schließt Ihr {brand} -Konto dauerhaft und beendet es, Updates von {brand} oder Ihrem Fahrzeug zu erhalten."
+    ],
+    "Complete": [
+      null,
+      "Abschließen"
+    ],
+    "Complete registration": [
+      null,
+      "Registrierung abschließen"
+    ],
+    "Confirm": [
+      null,
+      "Bestätigen"
+    ],
+    "Confirm new email address": [
+      null,
+      "Neue E-Mail Adresse bestätigen"
+    ],
+    "Confirm new password": [
+      null,
+      "Neues Passwort bestätigen"
+    ],
+    "Congratulations! A new car has been added to your account. Please take a moment to review and cofirm the data collection for your newly added car.": [
+      null,
+      "Herzlichen Glückwunsch! Ein neues Auto wurde zu Ihrem Konto hinzugefügt. Bitte nehmen Sie sich einen Moment Zeit, um die Datensammlung für Ihr neu hinzugefügtes Fahrzeug anzusehen und zu bestätigen."
+    ],
+    "Connect": [
+      null,
+      "Verbinden"
+    ],
+    "Connect your car": [
+      null,
+      "Verbinden Sie Ihr Fahrzeug"
+    ],
+    "Continue": [
+      null,
+      "Fortsetzen"
+    ],
+    "Cookie policy": [
+      null,
+      "Cookie-Richtlinie"
+    ],
+    "Couldn’t load view.": [
+      null,
+      "Ansicht konnte nicht geladen werden."
+    ],
+    "Crash detected": [
+      null,
+      "Unfall festgestellt"
+    ],
+    "Create account": [
+      null,
+      "Konto erstellen"
+    ],
+    "Critical warning": [
+      null,
+      "Kritische Warnung"
+    ],
+    "Current car status shows you the information about your car's general health and location. This feature lets you stay on top of things and notifies you if anything is wrong. Current status is required to use {brand}.": [
+      null,
+      "Der aktuelle Fahrzeugstatus zeigt Ihnen Informationen über den allgemeinen Gesundheitszustand und Standort Ihres Autos an. Mit dieser Funktion bleiben Sie immer auf dem Laufenden und informiert Sie, wenn etwas nicht stimmt. Der aktuelle Status ist erforderlich, um {brand} zu verwenden."
+    ],
+    "CURRENT DEVICE": [
+      null,
+      "AKTUELLES GERÄT"
+    ],
+    "Current password": [
+      null,
+      "Aktuelles Passwort"
+    ],
+    "Current status": [
+      null,
+      "Aktueller Status"
+    ],
+    "Currently snoozed": [
+      null,
+      "Momentan pausiert"
+    ],
+    "Data collection": [
+      null,
+      "Datensammlung"
+    ],
+    "Data is no longer being sent to {service}": [
+      null,
+      "Daten werden nicht mehr zu {service} gesendet"
+    ],
+    "Data Settings": [
+      null,
+      "Dateneinstellungen"
+    ],
+    "DAYS": [
+      null,
+      "TAGE"
+    ],
+    "Detected {ago}": [
+      null,
+      "Erkannt {ago}"
+    ],
+    "Devices that have logged in on your account": [
+      null,
+      "Geräte, die auf Ihrem Konto eingeloggt waren"
+    ],
+    "Directions": [
+      null,
+      "Richtungen"
+    ],
+    "Disabled": [
+      null,
+      "Deaktiviert"
+    ],
+    "Disconnect": [
+      null,
+      "Verbindung trennen"
+    ],
+    "Distance": [
+      null,
+      "Distanz"
+    ],
+    "Do you need help?": [
+      null,
+      "Brauchen Sie Hilfe?"
+    ],
+    "Do you want to remove {carName}?": [
+      null,
+      "Möchten Sie {carName} entfernen?"
+    ],
+    "Don't have an account?": [
+      null,
+      "Noch kein Konto?"
+    ],
+    "Done!": [
+      null,
+      "Fertig!"
+    ],
+    "Download update": [
+      null,
+      "Update herunterladen"
+    ],
+    "E-mail address": [
+      null,
+      "E-mail Adresse"
+    ],
+    "Easy parking with EasyPark": [
+      null,
+      "Einfaches Parken mit EasyPark"
+    ],
+    "Email": [
+      null,
+      "E-Mail"
+    ],
+    "Email already exists": [
+      null,
+      "E-Mail Adresse existiert bereits"
+    ],
+    "Enabled": [
+      null,
+      "Aktiviert"
+    ],
+    "End snooze": [
+      null,
+      "Schlummern beenden"
+    ],
+    "Engine": [
+      null,
+      ""
+    ],
+    "Engine warning light detected": [
+      null,
+      "Motorkontrolleuchte erkannt"
+    ],
+    "Enter your e-mail to get a link to reset your password": [
+      null,
+      "Geben Sie Ihre E-mail um einen Link zum Zurücksetzen Ihres Passworts zu erhalten"
+    ],
+    "Error": [
+      null,
+      "Fehler"
+    ],
+    "Error codes and regular technical information about the vehicle": [
+      null,
+      "Fehlercodes und regelmäßige technische Informationen über das Fahrzeug"
+    ],
+    "Every now and again, in addition to notifying you about your vehicle’s requirements, we would like to send you news and offers tailored to your needs and mobility requirements.\n\nWe would therefore like your permission to send you marketing material about cars, accessories, leasing, car hire and mobility services by post, email or text message, through the app or on social media.\n\nYou will receive newsletters and other marketing material from companies in [Semler Group A/S](http://semler.dk/semler-gruppen/om-semler-gruppen/) and [authorised Volkswagen, Audi, Skoda and SEAT dealers and service partners in Denmark](https://connectedcars.io/list-of-workshops).\n\nYou may withdraw your consent at any time under notification settings in the app.\n\nYou give your consent by clicking “Yes, please”.": [
+      null,
+      "Von Zeit zu Zeit möchten wir Ihnen zusätzlich zu den Anforderungen Ihres Fahrzeugs Neuigkeiten und Angebote zukommen lassen, die auf Ihre Bedürfnisse und Mobilitätsbedürfnisse zugeschnitten sind.\n\nWir möchten daher Ihre Erlaubnis, Ihnen Marketingmaterial über Autos, Zubehör, Leasing, Mietwagen und Mobilitätsdienstleistungen per Post, E-Mail oder SMS, über die App oder in sozialen Medien zu senden.\n\nSie erhalten Newsletter und anderes Marketingmaterial von Unternehmen der [Semler Group A / S] (http://semler.dk/semler-gruppen/om-semler-gruppen/) und von autorisierten Volkswagen-, Audi-, Skoda- und SEAT-Händlern sowie von Servicepartner in Dänemark] (https://connectedcars.io/list-of-workshops).\n\nSie können Ihre Einwilligung jederzeit unter Benachrichtigungseinstellungen in der App widerrufen. Sie geben Ihre Zustimmung, indem Sie auf \"Ja, bitte\" klicken."
+    ],
+    "Explore amazing services you can connect with your {brand}": [
+      null,
+      "Erforschen Sie erstaunliche Dienste, die Sie mit {brand} verbinden können"
+    ],
+    "First name": [
+      null,
+      "Vorname"
+    ],
+    "Forgot password": [
+      null,
+      "Passwort vergessen"
+    ],
+    "Forgot Password": [
+      null,
+      "Passwort vergessen"
+    ],
+    "Friday": [
+      null,
+      "Freitag"
+    ],
+    "Fuel": [
+      null,
+      ""
+    ],
+    "Fuel Consumed": [
+      null,
+      "Verbrauch von Treibstoff"
+    ],
+    "Fuel Level": [
+      null,
+      "Tankinhalt"
+    ],
+    "Fuel level is": [
+      null,
+      "Tankinhalt ist"
+    ],
+    "Fuel status": [
+      null,
+      "Kraftstoffstatus"
+    ],
+    "Fuel usage": [
+      null,
+      "Verbrauch"
+    ],
+    "Get connected!": [
+      null,
+      "Werden Sie verbunden!"
+    ],
+    "Get directions": [
+      null,
+      "Wegbeschreibung"
+    ],
+    "Get notifications as push. We recommend turning off SMS while using push notifications": [
+      null,
+      ""
+    ],
+    "Get notifications by email": [
+      null,
+      "Benachrichtigungen per E-Mail erhalten"
+    ],
+    "Get notifications by SMS on your phone": [
+      null,
+      "Benachrichtigungen über SMS auf Ihr Telefon erhalten"
+    ],
+    "Get push notifications when you park near a payment area": [
+      null,
+      ""
+    ],
+    "Get reset link": [
+      null,
+      "Reset-Link zusenden"
+    ],
+    "Get started!": [
+      null,
+      "Legen Sie los!"
+    ],
+    "Go back": [
+      null,
+      "Zurück"
+    ],
+    "Go to {domain}": [
+      null,
+      ""
+    ],
+    "Go to {service}": [
+      null,
+      "Gehen Sie zu {service}"
+    ],
+    "Go to My ALD": [
+      null,
+      ""
+    ],
+    "Go to My NF Fleet": [
+      null,
+      ""
+    ],
+    "History": [
+      null,
+      "Verlauf"
+    ],
+    "hour": [
+      "hours",
+      "Stunde",
+      "Stunden"
+    ],
+    "I need help": [
+      null,
+      "Ich benötige Hilfe"
+    ],
+    "I've already booked": [
+      null,
+      "Ich habe bereits gebucht"
+    ],
+    "If you are having trouble with your car you can receive help from {roadsideBrand} Roadside Assistance.\n\nYour car will be picked up and moved to the nearest {roadsideBrand} workshop where your car will be in good hands.": [
+      null,
+      "Wenn Sie Probleme mit Ihrem Fahrzeug haben, erhalten Sie Hilfe von {roadsideBrand} Pannenhilfe. Ihr Fahrzeug wird abgeholt und zu der nächstgelegenen {roadsideBrand} Werkstatt gebracht, wo Ihr Fahrzeug in guten Händen sein wird."
+    ],
+    "If you are no longer the primary user of the car you can remove it from your account": [
+      null,
+      "Falls Sie nicht mehr der primäre Benutzer des Fahrzeuges sind, dann können Sie es von ihrem Konto löschen"
+    ],
+    "If you don't receive notifications you might have turned them off in Settings": [
+      null,
+      ""
+    ],
+    "If you see any warning lamps in your vehicle's dashboard that we haven't informed you about, then report it here.": [
+      null,
+      ""
+    ],
+    "If you want to report a warning light that we have not notified you about, please click here.": [
+      null,
+      "Wenn Sie eine Warnleuchte über die wir Sie nicht informiert haben sehen, dann klicken Sie bitte hier."
+    ],
+    "Ignition on/off": [
+      null,
+      "Zündung an/aus"
+    ],
+    "Ignored parking areas": [
+      null,
+      "Ignorierte Parkplätze"
+    ],
+    "In order to be able to deliver the key services provided by {appName}, we need to collect the following data from your; **{carName}**.": [
+      null,
+      "Um die wichtigsten Dienstleistungen von {appName} liefern zu können, müssen wir die folgenden Daten von Ihrem;{carName} ** sammeln."
+    ],
+    "In order to be able to deliver the key services provided by {appName}, we require your consent for My Preferred workshop to send marketing material via text message and email and through the app about your vehicle’s requirements (service or repair). You may withdraw your consent at any time. However, if you do so, you will no longer be able to use the {appName} app (see our [terms](https://connectedcars.io/user-terms/en)).": [
+      null,
+      "Um die wichtigsten von {appName} bereitgestellten Dienste bereitstellen zu können, benötigen wir Ihre Zustimmung für die bevorzugte Werkstatt, um Marketingmaterial per Sms und E-Mail sowie über die App über die Anforderungen Ihres Fahrzeugs (Service oder Reparatur) zu senden. Sie können Ihre Einwilligung jederzeit widerrufen. Wenn Sie dies jedoch tun, können Sie die App {appName} nicht mehr verwenden (siehe unsere [terms] (https://connectedcars.io/user-terms/en))."
+    ],
+    "Incorrect email or password": [
+      null,
+      "Email oder Passwort ungültig"
+    ],
+    "Insurance": [
+      null,
+      "Versicherung"
+    ],
+    "Integrations": [
+      null,
+      ""
+    ],
+    "Is one or more warning lights still lit?": [
+      null,
+      "Leuchtet eine oder mehrere Warnleuchten immer noch?"
+    ],
+    "Is the {lamp} warning light flashing?": [
+      null,
+      "Blinkt die Kontrollleuchte {lamp}?"
+    ],
+    "Is your car unable to drive or start? Get help here": [
+      null,
+      "Ist Ihr Fahrzeug nicht in der Lage zu fahren oder zu starten? Hier erhalten Sie Hilfe"
+    ],
+    "It's time for your car to be serviced.\n\nBased on your current driving style, your car needs servicing before {date}.\n\nBook now to secure a time that suits you.": [
+      null,
+      "Es ist Zeit für Ihr Auto gewartet zu werden. \n\nBasierend auf Ihren aktuellen Fahrstil, braucht Ihr Fahrzeug Service bevor {date}. \n\nBuchen Sie jetzt um einen Termin zu sichern, der Ihnen passt."
+    ],
+    "Language": [
+      null,
+      "Sprache"
+    ],
+    "Last login: ": [
+      null,
+      "Letzter Login: "
+    ],
+    "Last name": [
+      null,
+      "Nachname"
+    ],
+    "Latest Trip": [
+      null,
+      "Letzte Fahrt"
+    ],
+    "Learn more": [
+      null,
+      "Weitere Informationen"
+    ],
+    "Leasing": [
+      null,
+      "Leasing"
+    ],
+    "Legal": [
+      null,
+      "Rechtliches"
+    ],
+    "License plate": [
+      null,
+      "Kennzeichen"
+    ],
+    "License Plate": [
+      null,
+      "Kfz-Kennzeichen"
+    ],
+    "liter": [
+      "liters",
+      "Liter",
+      "Liter"
+    ],
+    "liters": [
+      null,
+      "Liter"
+    ],
+    "Loading": [
+      null,
+      "Lädt"
+    ],
+    "Location": [
+      null,
+      "Standort"
+    ],
+    "Lock status": [
+      null,
+      "Sperrstatus"
+    ],
+    "Lock status is currently only available for up to 5 minutes after the car has been switched off. If you lock the car after these 5 minutes, it might still read as unlocked.": [
+      null,
+      "Der Schließ-Status ist derzeit nur bis zu 5 Minuten nach dem Ausschalten des Fahrzeugs verfügbar. Wenn Sie das Auto nach diesen 5 Minuten abschliessen, könnte es immer noch als offen gelesen werden."
+    ],
+    "Lock status is unfortunately not available for your car at the moment. We are continuously working on improving availability for all different models and hope to make it possible to show the lock status for your car as soon as possible.": [
+      null,
+      "Der Schließ-Status ist im Moment leider nicht für Ihr Fahrzeug verfügbar. Wir arbeiten kontinuierlich an der Verbesserung der Verfügbarkeit für alle verschiedenen Modelle und hoffen, dass es möglich ist, den Sperrstatus für Ihr Auto so schnell wie möglich anzuzeigen."
+    ],
+    "locked": [
+      null,
+      "abgeschlossen"
+    ],
+    "Locked": [
+      null,
+      ""
+    ],
+    "Locked status currently": [
+      null,
+      "Schließ-Status momentan"
+    ],
+    "Log in with e-mail": [
+      null,
+      "Mit Ihrer E-Mailadresse anmelden"
+    ],
+    "Log in with Facebook": [
+      null,
+      "Mit Facebook anmelden"
+    ],
+    "Login": [
+      null,
+      "Anmeldung"
+    ],
+    "Logout": [
+      null,
+      "Ausloggen"
+    ],
+    "Message workshop": [
+      null,
+      "Werkstatt kontaktieren"
+    ],
+    "Messages": [
+      null,
+      "Nachrichten"
+    ],
+    "Mileage": [
+      null,
+      ""
+    ],
+    "Minor warning": [
+      null,
+      ""
+    ],
+    "Missing notifications?": [
+      null,
+      ""
+    ],
+    "Mobile (recommended)": [
+      null,
+      "Handynummer (empfohlen)"
+    ],
+    "Model": [
+      null,
+      "Modell"
+    ],
+    "Monday": [
+      null,
+      "Montag"
+    ],
+    "More": [
+      null,
+      "Mehr"
+    ],
+    "Name": [
+      null,
+      "Name"
+    ],
+    "New email": [
+      null,
+      "Neue E-Mail"
+    ],
+    "New password": [
+      null,
+      "Neues Passwort"
+    ],
+    "News & offers": [
+      null,
+      "Neuigkeiten und Angebote"
+    ],
+    "Next": [
+      null,
+      "Weiter"
+    ],
+    "Next oil change": [
+      null,
+      "Nächster Ölwechsel"
+    ],
+    "Next oil change:": [
+      null,
+      "Nächster Ölwechsel:"
+    ],
+    "Next service": [
+      null,
+      "Nächste Inspektion"
+    ],
+    "Next service:": [
+      null,
+      "Nächste Inspektion:"
+    ],
+    "No": [
+      null,
+      "Nein"
+    ],
+    "No thanks": [
+      null,
+      "Nein, danke"
+    ],
+    "No thanks, remove all cars": [
+      null,
+      "Nein Danke, alle Autos entfernen"
+    ],
+    "No thanks, remove the car": [
+      null,
+      "Nein Danke, entfernen Sie das Fahrzeug"
+    ],
+    "No warning lights": [
+      null,
+      "Keine Warnleuchten"
+    ],
+    "Normal": [
+      null,
+      ""
+    ],
+    "not available": [
+      null,
+      "nicht verfügbar"
+    ],
+    "Not sure what we read from your car, or how?": [
+      null,
+      "Nicht sicher, was oder wie wir Daten aus Ihrem Fahrzeug auslesen?"
+    ],
+    "Notifications": [
+      null,
+      "Benachrichtigungen"
+    ],
+    "Odometer": [
+      null,
+      "Kilometerzähler"
+    ],
+    "Ok": [
+      null,
+      "OK"
+    ],
+    "OK": [
+      null,
+      ""
+    ],
+    "Old email": [
+      null,
+      "Alte E-Mail"
+    ],
+    "Open": [
+      null,
+      ""
+    ],
+    "Open until ": [
+      null,
+      "Geöffnet bis "
+    ],
+    "Opening Hours": [
+      null,
+      "Öffnungszeiten"
+    ],
+    "or": [
+      null,
+      "oder"
+    ],
+    "Overdue by {distance} km": [
+      null,
+      "Überfällig mit {distance} km"
+    ],
+    "Overdue by {n} day": [
+      "Overdue by {n} days",
+      "Überfällig mit {n} Tag",
+      "Überfällig mit {n} Tagen"
+    ],
+    "Parking assistant": [
+      null,
+      "Parkplatz-Assistent"
+    ],
+    "Partially Enabled": [
+      null,
+      "Teilweise aktiviert"
+    ],
+    "Partnerships": [
+      null,
+      "Partnerschaften"
+    ],
+    "Password": [
+      null,
+      "Passwort"
+    ],
+    "Pay with EasyPark": [
+      null,
+      "Mit EasyPark bezahlen"
+    ],
+    "Personal information": [
+      null,
+      "Persönliche Information"
+    ],
+    "Phone": [
+      null,
+      "Telefon"
+    ],
+    "Please contact support@connectedcars.dk if the problem keeps reoccurring. We received the following error:\n\n {error}": [
+      null,
+      "Bitte kontaktieren Sie support@connectedcars.dk, wenn das Problem erneut auftritt. Wir erhalten folgende Fehlermeldung:\n\n {error}"
+    ],
+    "Please make sure that the email and password is input correctly": [
+      null,
+      "Bitte vergewissern Sie sich, dass die E-Mail und das Passwort korrekt eingegeben wurden"
+    ],
+    "Please select the warning light(s) you have observed": [
+      null,
+      "Bitte wählen Sie die Warnlampe (n), die Sie beobachtet haben"
+    ],
+    "Please select your workshop": [
+      null,
+      "Bitte Werkstatt auswählen"
+    ],
+    "Please try again later.": [
+      null,
+      "Bitte versuchen Sie es später erneut."
+    ],
+    "Possible incident": [
+      null,
+      ""
+    ],
+    "Possible incident detected": [
+      null,
+      "Möglicher Fehler erkannt"
+    ],
+    "Privacy": [
+      null,
+      "Datenschutz"
+    ],
+    "Privacy policy": [
+      null,
+      "Datenschutzrichtlinien"
+    ],
+    "Profile": [
+      null,
+      "Profil"
+    ],
+    "Push": [
+      null,
+      ""
+    ],
+    "Read and accept our Conditions of Use, Privacy Policy, and Cookie Policy.": [
+      null,
+      "Lesen und akzeptieren Sie unsere Nutzungsbedingungen, Datenschutzbestimmungen und Cookie-Richtlinien."
+    ],
+    "Read more about the service": [
+      null,
+      "Lesen Sie mehr über den Service"
+    ],
+    "Receive notifications with offers and services for you and your car": [
+      null,
+      "Erhalten Sie Benachrichtigungen mit Angeboten und Dienstleistungen für Sie und Ihr Auto"
+    ],
+    "Red": [
+      null,
+      "Rot"
+    ],
+    "Register": [
+      null,
+      "Registrieren"
+    ],
+    "Register with e-mail": [
+      null,
+      "Mit E-Mail registrieren"
+    ],
+    "Related to {system}": [
+      null,
+      "Bezogen auf {system}"
+    ],
+    "Remind me about payment": [
+      null,
+      "Erinnern Sie mich an die Bezahlung"
+    ],
+    "Reminder": [
+      null,
+      "Erinnerung"
+    ],
+    "Remove": [
+      null,
+      "Entfernen"
+    ],
+    "REMOVE": [
+      null,
+      "Entfernen"
+    ],
+    "Remove car": [
+      null,
+      "Fahrzeug entfernen"
+    ],
+    "Remove my car": [
+      null,
+      "Mein Fahrzeug entfernen"
+    ],
+    "Remove Photo": [
+      null,
+      "Foto entfernen"
+    ],
+    "Report": [
+      null,
+      "Melden"
+    ],
+    "Report warning lamp": [
+      null,
+      ""
+    ],
+    "Report warning light": [
+      null,
+      "Warnleuchte melden"
+    ],
+    "Reported": [
+      null,
+      "Gemeldet"
+    ],
+    "Reported {ago}": [
+      null,
+      "Gemeldet {ago}"
+    ],
+    "Reported warning light": [
+      null,
+      "Warnleuchte gemeldet"
+    ],
+    "Required": [
+      null,
+      "Erforderlich"
+    ],
+    "Retry": [
+      null,
+      "Wiederholen"
+    ],
+    "Roadside assistance": [
+      null,
+      "Pannenhilfe anrufen"
+    ],
+    "Saturday": [
+      null,
+      "Samstag"
+    ],
+    "Search...": [
+      null,
+      "Suche..."
+    ],
+    "Security and login": [
+      null,
+      "Sicherheit und Login"
+    ],
+    "See amazing services you can add to your {brand}": [
+      null,
+      "Erforschen Sie erstaunliche Dienste, die Sie mit {brand} verbinden können"
+    ],
+    "Send": [
+      null,
+      "Senden"
+    ],
+    "Service": [
+      null,
+      "Kundendienst"
+    ],
+    "Service recommended": [
+      null,
+      ""
+    ],
+    "Service recommended now": [
+      null,
+      "Service wird jetzt empfohlen"
+    ],
+    "Service recommended within {days} days": [
+      null,
+      "Service innerhalb {days} empfohlen"
+    ],
+    "Share the following data from your {brand} account with {service}": [
+      null,
+      "Teilen Sie die folgenden Daten von Ihrem {brand} -Konto mit {service}"
+    ],
+    "Shop": [
+      null,
+      "Shop"
+    ],
+    "Showing results for ´{query}´": [
+      null,
+      "Sucherergebnisse für ´{query}´"
+    ],
+    "Sign up": [
+      null,
+      "Konto erstellen"
+    ],
+    "Skip": [
+      null,
+      "Überspringen"
+    ],
+    "SMS": [
+      null,
+      "SMS"
+    ],
+    "Snooze location": [
+      null,
+      "Position schlummern"
+    ],
+    "Snooze until {until}": [
+      null,
+      "Schlummern bis {until}"
+    ],
+    "Snooze your car’s location to prevent any GPS data from being stored for a set period of time. It’s possible to snooze for up to 24 hours at a time.\n\nWhen you snooze you’re losing access to the location feature.\n\nYou can always end snooze early.": [
+      null,
+      "Schlummern Sie den Standort Ihres Fahrzeugs, um zu verhindern, dass GPS-Daten für eine bestimmte Zeit gespeichert werden. Es ist möglich, bis zu 24 Stunden am Stück zu schlummern. Wenn Sie schlummern, verlieren Sie den Zugriff auf die Standortfunktion. Sie können die Schlummerfunktion jederzeit beenden."
+    ],
+    "So your car broke down? What now? We’re here to help": [
+      null,
+      "Ihr Auto ist liegen geblieben? Wir sind hier um Ihnen zu helfen"
+    ],
+    "Solid": [
+      null,
+      "Solide"
+    ],
+    "Something went wrong": [
+      null,
+      "Etwas ist schief gelaufen"
+    ],
+    "Something went wrong. Please try again later.": [
+      null,
+      "Etwas ist schiefgelaufen. Bitte versuchen Sie es später erneut."
+    ],
+    "Status": [
+      null,
+      "Status"
+    ],
+    "Status of my car": [
+      null,
+      "Zustand meines Fahrzeuges"
+    ],
+    "Still lit": [
+      null,
+      "Leuchtet immer noch"
+    ],
+    "Stop payment automatically when you start your car": [
+      null,
+      ""
+    ],
+    "Stop the car, turn ignition off, and consult your workshop or roadside assistance immediately for further help.": [
+      null,
+      "Stoppen Sie das Auto, schalten Sie die Zündung aus und benachrichtigen Sie sofort Ihre Werkstatt oder Pannenhilfe für weitere Hilfe."
+    ],
+    "Sunday": [
+      null,
+      "Sonntag"
+    ],
+    "Support": [
+      null,
+      "Support"
+    ],
+    "System Check": [
+      null,
+      ""
+    ],
+    "Systems checked ok": [
+      null,
+      "Systemkontrolle OK"
+    ],
+    "Systems overview": [
+      null,
+      "Systeme-Übersicht"
+    ],
+    "Take Photo": [
+      null,
+      "Foto aufnehmen"
+    ],
+    "Technical help": [
+      null,
+      "Technische Hilfe"
+    ],
+    "Terms": [
+      null,
+      "Bedingungen"
+    ],
+    "Terms and conditions": [
+      null,
+      "Geschäfts - und Nutzungsbedingungen"
+    ],
+    "Thank you for reporting the incident and helping us improve {brand}.\n\nThe incident may be serious. Please contact the workshop as soon as possible for more information.": [
+      null,
+      "Danke, dass Sie den Vorfall gemeldet und uns geholfen haben, {brand} zu verbessern. Der Fehler kann ernst sein. Bitte kontaktieren Sie die Werkstatt so schnell wie möglich für weitere Informationen."
+    ],
+    "Thank you for reporting the incident to your workshop and helping us improve {brand}.\n\nIf there are no red or yellow warning lights lit in your dashboard you can drive on safely.\n\nFeel free to leave a note to the workshop if needed.": [
+      null,
+      "Vielen Dank, dass Sie den Fehler Ihrer Werkstatt gemeldet und uns geholfen haben, {brand} zu verbessern.\n\nWenn in Ihrem Armaturenbrett keine rote oder gelbe Warnlampe leuchtet, können Sie sicher weiterfahren.\n\nWenn nötig, können Sie ihrer Werkstatt eine Notiz hinterlassen."
+    ],
+    "Thank you!": [
+      null,
+      "Dankeschön!"
+    ],
+    "The email already exists in our system. Please make sure that you don't already have a user or log in instead.": [
+      null,
+      "Die E-Mail Adresse existiert bereits in unserem System. Bitte stellen Sie sicher, dass Sie nicht bereits einen Benutzer haben oder loggen Sie sich stattdessen ein."
+    ],
+    "The error may be serious. Please contact the workshop as soon as possible for more information.": [
+      null,
+      "Der Fehler kann schwerwiegend sein. Bitte kontaktieren Sie die Werkstatt so schnell wie möglich für weitere Informationen."
+    ],
+    "The following systems are being checked in your car": [
+      null,
+      "Folgende Systeme werden in Ihrem Auto geprüft"
+    ],
+    "The fuel level shows your car's remaining fuel in liters. It will update every time you switch your car on or off.": [
+      null,
+      "Der Kraftstoffstand zeigt den verbleibenden Kraftstoff Ihres Autos in Litern an. Es wird jedes Mal aktualisiert, wenn Sie Ihr Auto ein- oder ausschalten."
+    ],
+    "The GPS position of the vehicle while driving and when parked": [
+      null,
+      "Die GPS-Position des Fahrzeugs während der Fahrt und beim Parken"
+    ],
+    "The most convenient app to start, stop and extend your parking all over Denmark and Europe made even easier.\n\nBy connecting with EasyPark, MinVolkswagen can notify you when you park in payment zones and stop your parking automatically.": [
+      null,
+      "Die bequemste App zum Starten, Stoppen und Erweitern Ihres Parkens in ganz Dänemark und Europa wird noch einfacher. \n\nDurch die Verbindung mit EasyPark kann MinVolkswagen Sie benachrichtigen, wenn Sie in Zahlungszonen parken und Ihr Parken automatisch beenden."
+    ],
+    "This feature gives your preferred workshop access to read some of the data coming from your car so you can get technical help. This also allows services like prefilling booking forms. Technical help is required to use {brand}.": [
+      null,
+      "Diese Funktion ermöglicht es Ihrer bevorzugten Werkstatt, einige der Daten aus Ihrem Auto zu lesen, um technische Hilfe zu erhalten. Dies ermöglicht auch Dienste wie das Vorausfüllen von Buchungsformularen. Für die Verwendung von {brand} ist technische Hilfe erforderlich."
+    ],
+    "Thursday": [
+      null,
+      "Donnerstag"
+    ],
+    "time": [
+      null,
+      "zeit"
+    ],
+    "Time for service": [
+      null,
+      "Zeit für Inspektion"
+    ],
+    "Total mileage": [
+      null,
+      "Gesamtlaufleistung"
+    ],
+    "Total time": [
+      null,
+      "Gesamtzeit"
+    ],
+    "Trip map": [
+      null,
+      "Fahrten-Karte"
+    ],
+    "Trips": [
+      null,
+      "Fahrten"
+    ],
+    "Trips allows you to keep track of your cars trips. You can see where you have driven, how far, how long and how much gas you’ve used. Trip map is required to enable the feature.": [
+      null,
+      "Mit \"Fahrten\" können Sie die Reisen Ihres Autos nachverfolgen. Sie können sehen, wo Sie gefahren sind, wie weit, wie lange und wie viel Treibstoff Sie verwendet haben. Die Fahrten-Karte ist erforderlich, um die Funktion zu aktivieren."
+    ],
+    "Tuesday": [
+      null,
+      "Dienstag"
+    ],
+    "Turn your car on\nagain to update the lock status.": [
+      null,
+      "Schalten Sie Ihr Auto wieder ein, \num den Schließ-Status zu aktualisieren."
+    ],
+    "Type message": [
+      null,
+      "Nachricht schreiben"
+    ],
+    "Unable to complete logout. Please make sure you have an active internet connection and try again.": [
+      null,
+      "Sie wurden nicht abgemeldet. Bitte stellen Sie sicher, dass Sie eine aktive Internetverbindung haben und versuchen Sie es erneut."
+    ],
+    "Unable to ignore parking area. Make sure you are connected to the internet and try again.": [
+      null,
+      "Nicht in der Lage den Parkplatz zu ignorieren. Stellen Sie sicher, dass Sie mit dem Internet verbunden sind und versuchen Sie es erneut."
+    ],
+    "Unable to load messages": [
+      null,
+      "Nachrichten konnten nicht geladen werden"
+    ],
+    "Unable to upload image, please try again later": [
+      null,
+      "Nicht in der Lage das Bild hochzuladen, bitte versuchen Sie es später noch einmal"
+    ],
+    "unknown": [
+      null,
+      "unbekannt"
+    ],
+    "unlocked": [
+      null,
+      "offen"
+    ],
+    "Unlocked": [
+      null,
+      ""
+    ],
+    "Update email": [
+      null,
+      "E-Mail aktualisieren"
+    ],
+    "Update name": [
+      null,
+      "Namen aktualisieren"
+    ],
+    "Update password": [
+      null,
+      "Passwort aktualisieren"
+    ],
+    "Update phone": [
+      null,
+      "Telefonnummer aktualisieren"
+    ],
+    "Updated {when}": [
+      null,
+      "Aktualisiert {when}"
+    ],
+    "Updating": [
+      null,
+      "Aktualisiere"
+    ],
+    "Updating your vehicle data": [
+      null,
+      "Aktualisiert Ihre Fahrzeugdaten"
+    ],
+    "User": [
+      null,
+      "Benutzer"
+    ],
+    "VAT: {vatAmount} {currency}": [
+      null,
+      "MwSt: {vatAmount} {currency}"
+    ],
+    "Want to stop sending data?": [
+      null,
+      "Möchten Sie keine Daten mehr senden?"
+    ],
+    "Warning": [
+      null,
+      "Warnung"
+    ],
+    "Warning lamp reported": [
+      null,
+      "Warnlampe registriert"
+    ],
+    "Warning light is off": [
+      null,
+      "Warnleuchte ist ausgeschaltet"
+    ],
+    "We are adding a lot of partnerships really soon, for your benefit.\n\nFor example:\n\n    -  \tDrivers log\n    -   \tFuel consumption\n    -         Insurance\n    -  \tParking": [
+      null,
+      "Wir werden bald viele Partnerschaften zu Ihrem Vorteil hinzufügen.\n\nZum Beispiel:\n\n- Fahrtenbuch\n- Treibstoff\n- Versicherung\n- Parken"
+    ],
+    "We care about your privacy, so with features that are using your personal data we want to ensure that you know what is collected and have given your consent before we collect or use your data.\n\nPlease take a couple of minutes to review your data settings.": [
+      null,
+      "Wir kümmern uns um Ihre Privatsphäre. Mit Funktionen, die Ihre persönlichen Daten verwenden, möchten wir sicherstellen, dass Sie wissen, was gesammelt wurde und Ihre Einwilligung gegeben haben, bevor wir Ihre Daten erfassen oder verwenden. Bitte nehmen Sie sich ein paar Minuten Zeit, um Ihre Dateneinstellungen zu überprüfen."
+    ],
+    "We constantly improve the user experience of the app and therefore we would like to see how you use it. Feel free to send suggestions to feedback@connectedcars.io": [
+      null,
+      "Wir verbessern ständig das Benutzererlebnis der App und deshalb möchten wir sehen, wie Sie es verwenden. Senden Sie gerne Vorschläge an feedback@connectedcars.io"
+    ],
+    "We could not deliver your message. Please make sure you have an internet connection and try sending again.": [
+      null,
+      "Ihre Nachricht konnte nicht übermittelt werden. Bitte stellen Sie sicher, dass Sie eine Internetverbindung haben und versuchen Sie erneut zu senden."
+    ],
+    "We got all your Volkswagen needs just 1-click away": [
+      null,
+      "Wir haben alles für Ihren Volkswagen - nur 1 Klick entfernt"
+    ],
+    "We have made some changes. To use all the features in the app you need to update. This is to ensure that you can enjoy new features and keep the user experience as smooth as possible.\n\nUpdate so you can enjoy the app again.": [
+      null,
+      "Wir haben einige Änderungen vorgenommen. Um alle Funktionen in der App zu verwenden, müssen Sie aktualisieren. So stellen Sie sicher, dass Sie neue Funktionen genießen und das Benutzererlebnis so reibungslos wie möglich gestalten können. \n\nAktualisieren Sie, damit Sie die App erneut genießen können."
+    ],
+    "We measure several key systems in your car. To see what systems we support, please go to the systems overview.": [
+      null,
+      "Wir messen mehrere wichtige Systeme in Ihrem Auto. Um zu sehen welche Systeme wir unterstützen, gehen Sie bitte zur Systemübersicht."
+    ],
+    "We're ready to start sending data. Now we just need you to sign up with {service} or sign in and everything should be good to go": [
+      null,
+      "Wir sind bereit, mit dem Senden von Daten zu beginnen. Jetzt müssen Sie sich nur noch bei {service} registrieren oder sich anmelden und alles sollte gut sein"
+    ],
+    "We've sent an email to your new email address with a confirmation link. Please confirm for the change to take effect": [
+      null,
+      "Wir haben eine E-Mail mit einem Bestätigungslink an Ihre neue E-Mail-Adresse gesendet. Bitte bestätigen Sie, damit die Änderung wirksam wird"
+    ],
+    "We’ve stopped your parking": [
+      null,
+      "Wir haben Ihr Parken beendet"
+    ],
+    "Wednesday": [
+      null,
+      "Mittwoch"
+    ],
+    "Welcome to\n{brand}": [
+      null,
+      "Willkommen bei\n{brand}"
+    ],
+    "Welcome to {brand} - It's time to connect your car. Please tap to see more": [
+      null,
+      "Willkommen bei {brand} - es ist Zeit, Ihr Auto zu verbinden. Bitte tippen Sie, um mehr zu sehen"
+    ],
+    "Welcome to {brand}. It is time to connect your car.\n\nBook an appointment with your preferred workshop or call them to get connected. {brand} is free.": [
+      null,
+      "Willkommen bei {brand}. Es ist Zeit, Ihr Auto zu verbinden. \n\nVereinbaren Sie einen Termin mit Ihrer bevorzugten Werkstatt oder rufen Sie sie an, um verbunden zu werden. {brand} ist kostenlos."
+    ],
+    "What color is the {lamp} warning light?": [
+      null,
+      "Welche Farbe hat die {lamp} Warnleuchte?"
+    ],
+    "When you disconnect we stop sending data to {service}, your future trips won't be shared any longer.\n\nRemember that your subscription with {service} doesn't end automatically when you disconnect!": [
+      null,
+      "Wenn Sie die Verbindung trennen, senden wir keine Daten mehr an {service}. Ihre zukünftigen Reisen werden nicht mehr geteilt. Denken Sie daran, dass Ihr Abonnement mit {service} nicht automatisch beendet wird, wenn Sie die Verbindung trennen!"
+    ],
+    "Where’s my car": [
+      null,
+      "Wo ist mein Auto"
+    ],
+    "With {brand} you can get an overview of your car's trips. Message your workshop to get connected.": [
+      null,
+      "Mit {brand} können Sie sich einen Überblick über die Fahrten Ihres Autos verschaffen. Kontaktieren Sie ihre Werkstatt, um sich zu verbinden."
+    ],
+    "Workshop": [
+      null,
+      "Werkstatt"
+    ],
+    "Workshops": [
+      null,
+      "Werkstätten"
+    ],
+    "Write workshop": [
+      null,
+      "Werkstatt anschreiben"
+    ],
+    "Yellow": [
+      null,
+      "Gelb"
+    ],
+    "Yes": [
+      null,
+      "Ja"
+    ],
+    "Yes, flashing": [
+      null,
+      "Ja, blinkt"
+    ],
+    "Yes, My Preferred Workshop may also contact me by telephone regarding an agreement on service or repair.": [
+      null,
+      "Ja, meine bevorzugte Werkstatt kann mich auch telefonisch bezüglich einer Vereinbarung über Service oder Reparatur kontaktieren."
+    ],
+    "Yes, please": [
+      null,
+      "Ja, bitte"
+    ],
+    "Yes, still lit": [
+      null,
+      "Ja, leuchtet noch"
+    ],
+    "You are receiving this message because our data suggest that there may be an incident  with your car´s {system}.\n\nHave you observed any warning light(s) in your car´s dashboard?": [
+      null,
+      "Sie erhalten diese Nachricht, weil unsere Daten darauf hindeuten, dass möglicherweise ein Vorfall mit dem {system} Ihres Fahrzeugs vorliegt. Haben Sie Warnlampe(n) im Armaturenbrett Ihres Autos beobachtet?"
+    ],
+    "You can write to your workshop about anything and also easily check if your car is ok.": [
+      null,
+      "Sie können Ihrer Werkstatt alles fragen und auch einfach überprüfen, ob Ihr Auto in Ordnung ist."
+    ],
+    "You give your consent by clicking \"Accept & continue\".\n\nYou can change your notification settings in the app at any time or withdraw your consent completely by removing all of your vehicles under settings.": [
+      null,
+      "Sie geben Ihre Zustimmung, indem Sie auf \"Akzeptieren und fortfahren\" klicken. Sie können Ihre Benachrichtigungseinstellungen jederzeit in der App ändern oder Ihre Zustimmung vollständig widerrufen, indem Sie alle Ihre Fahrzeuge unter den Einstellungen entfernen."
+    ],
+    "You have parked near the following payment zone": [
+      "You have parked near the following payment zones",
+      "Sie haben in der Nähe der folgenden Zahlzone geparkt",
+      "Sie haben in der Nähe der folgenden Zahlzonen geparkt"
+    ],
+    "You may withdraw your consent at any time by clicking on “remove vehicle” under settings in the app. You will find further details about how we process your personal data in our [privacy policy](https://connectedcars.io/privacy-policy/en).": [
+      null,
+      "Sie können Ihre Einwilligung jederzeit widerrufen, indem Sie unter Einstellungen in der App auf \"Fahrzeug entfernen\" klicken. Weitere Einzelheiten zur Verarbeitung Ihrer persönlichen Daten finden Sie in unserer [privacy policy](https://connectedcars.io/privacy-policy/en)."
+    ],
+    "You will loose access to the car permanently. Continue if you're no longer the primary user of the car": [
+      null,
+      "Sie verlieren dauerhaft den Zugang zum Auto. Fahren Sie fort, wenn Sie nicht mehr der Nutzer des Autos sind"
+    ],
+    "Your {car} started moving while you still were paying for parking. Here’s a quick summary of your parking:": [
+      null,
+      "Ihr {car} hat sich bewegt, als Sie noch für das Parken bezahlt haben. Hier ist eine kurze Zusammenfassung Ihres Parkens:"
+    ],
+    "Your car hasn’t logged any trips yet.\nTake your car for a spin, and we can get started creating your trip history.": [
+      null,
+      "Ihr Auto hat noch keine Fahrten protokolliert. Drehen Sie eine Runde und wir können mit der Erstellung Ihrer Reisegeschichte beginnen."
+    ],
+    "Your car is currently snoozed! Location is shown as unavailable and we won’t store any GPS data from you car in the snooze period.": [
+      null,
+      "Ihr Auto ist momentan im Schlummer-Modus! Der Standort wird als nicht verfügbar angezeigt und wir speichern in der Schlummerzeit keine GPS-Daten von Ihrem Fahrzeug."
+    ],
+    "Your car needs to be serviced regularly to ensure it's overall health. Remember that when you service your vehicle at an authorized dealership you get free roadside assistance.": [
+      null,
+      "Ihr Auto muss regelmäßig gewartet werden, um sicherzustellen, dass es gesund ist. Denken Sie daran, dass Sie bei der Wartung Ihres Fahrzeugs bei einem autorisierten Händler kostenlose Pannenhilfe erhalten."
+    ],
+    "Your reported warning lights": [
+      null,
+      "Ihre gemeldeten Warnleuchten"
+    ],
+    "Your request has been sent. We will contact you within 48 hours to confirm": [
+      null,
+      "Ihre Anfrage wurde gesendet. Wir werden uns innerhalb von 48 Stunden bei Ihnen melden, um dies zu bestätigen"
+    ],
+    "camera\u0004Cancel": [
+      null,
+      "Abbrechen"
+    ]
+  },
+  "es": {
+    "": {
+      "project-id-version": "",
+      "pot-creation-date": "",
+      "po-revision-date": "",
+      "last-translator": "",
+      "language-team": "",
+      "language": "es",
+      "mime-version": "1.0",
+      "content-type": "text/plain; charset=UTF-8",
+      "content-transfer-encoding": "8bit",
+      "x-generator": "Poedit 2.0.7",
+      "plural-forms": "nplurals=2; plural=(n != 1);"
+    },
+    "[unknown]": [
+      null,
+      "[desconocido]"
+    ],
+    "{brand} is fetching new app updates": [
+      null,
+      "{brand} está descargando actualizaciones"
+    ],
+    "{brand} keeps you updated about your car’s health at all time.": [
+      null,
+      "{brand} te mantiene informado de la salud de tu coche en todo momento."
+    ],
+    "{carName} is being removed": [
+      null,
+      "Eliminando {carName}"
+    ],
+    "{distance} km": [
+      null,
+      "{distance} km"
+    ],
+    "{duration} min": [
+      null,
+      "{duration} min"
+    ],
+    "{km} km": [
+      null,
+      "{km} km"
+    ],
+    "{n} day": [
+      "{n} days",
+      "{n} día",
+      "{n} dage"
+    ],
+    "{n} liter": [
+      "{n} liters",
+      "{n} litro",
+      "{n} liter"
+    ],
+    "{NAME} reported a lamp: {LAMP}": [
+      null,
+      "{NAME} ha activado un indicador: {LAMP}"
+    ],
+    "{NAME} reported multiple lamps: {LAMPS}": [
+      null,
+      "{NAME} har registreret flere advarselslamper: {LAMPS}"
+    ],
+    "{speed} km/h": [
+      null,
+      "{speed} km/h"
+    ],
+    "•\tCalculated direction\n•\tTrip time": [
+      null,
+      "•\tDireccion calculada\n•\tTiempo de viaje"
+    ],
+    "•\tFuel level": [
+      null,
+      "•\tNivel de gasolina"
+    ],
+    "•\tOdometer": [
+      null,
+      "•\tCuentakilómetros"
+    ],
+    "•\tUnit position\n•\tOdometer": [
+      null,
+      "•\tPosición de la unidad\n•\tCuentakilómetros"
+    ],
+    "12 34 56 78": [
+      null,
+      "12 34 56 78"
+    ],
+    "A link to reset password is successfully sent to": [
+      null,
+      "Se ha enviado un enlace para reiniciar el password"
+    ],
+    "Accept": [
+      null,
+      "Aceptar"
+    ],
+    "Accept & continue": [
+      null,
+      "Aceptar y continuar"
+    ],
+    "Account": [
+      null,
+      "Cuenta"
+    ],
+    "Additional info": [
+      null,
+      "Información adicional"
+    ],
+    "Allow": [
+      null,
+      "Permitir"
+    ],
+    "Allow access to your camera to start taking photos": [
+      null,
+      "Permitir acceso a la cámara para tomar fotos"
+    ],
+    "Allow all": [
+      null,
+      "Permitir todo"
+    ],
+    "Allow feedback": [
+      null,
+      "Permitir feedback"
+    ],
+    "Allow permission": [
+      null,
+      "Dar permiso"
+    ],
+    "Almost there!": [
+      null,
+      "Casi hemos terminado!"
+    ],
+    "Already have an account?": [
+      null,
+      "Ya tienes una cuenta?"
+    ],
+    "An error occurred please try again later!": [
+      null,
+      "Un error ha ocurrido, por favor inténtalo mas tarde"
+    ],
+    "An error occurred, please try again later": [
+      null,
+      "Un error ha ocurrido, por favor inténtalo mas tarde"
+    ],
+    "APP VERSION: {version}": [
+      null,
+      "VERSION APP: {version}"
+    ],
+    "Are you sure you want to permanently close your account?": [
+      null,
+      "Estas seguro de que quieres cerrar tu cuenta permanentemente?"
+    ],
+    "Are you sure you want to remove your car?\nOnce it is removed the car is gone from your app. If you want to reactivate it you have to contact your preferred workshop.": [
+      null,
+      "Estas seguro de que quieres eliminar tu coche?\nUna vez eliminado, desaparecerá de la app. Si quieres reactivarlo tendrás que contactar con cualquier taller."
+    ],
+    "As an ALD customer, you can use My ALD - a customer portal, where you will find everything that concerns the day-to-day operation of the company car. You can send damage reviews. send in damage claims, order time for service through Servicelink and accompany both the fleet and the individual car. It is also possible to order registration certificates, red and green cards and to manage fuel cards.": [
+      null,
+      "Como cliente de ALD, puedes usar My ALD - un portal de usuario donde encontraras todo lo necesario para manejar tu coche de empresa. Puedes enviar informes de daños, pedir reembolsos, pedir citas en talleres autorizados a través de Service link y acompañar tanto el vehículo de flota como el personal. También se pueden pedir certificados de registros, tarjetas roja y verde y gestionar tarjetas de gasolina."
+    ],
+    "Attention": [
+      null,
+      "Atencion"
+    ],
+    "Authorize": [
+      null,
+      "Autorizar"
+    ],
+    "Authorized service": [
+      null,
+      "Servicio autorizado"
+    ],
+    "Avg. speed": [
+      null,
+      "Velocidad media"
+    ],
+    "Blinking": [
+      null,
+      "Intermitente"
+    ],
+    "Book an appointment at your preferred workshop. They can read out the cars health prior to your visit": [
+      null,
+      "Reserva una cita en el taller deseado. El mismo taller puede leer la salud de tu vehículo antes de tu visita"
+    ],
+    "Book appointment": [
+      null,
+      "Pedir cita"
+    ],
+    "Book now": [
+      null,
+      "Reservar ahora"
+    ],
+    "Booking": [
+      null,
+      "Reserva"
+    ],
+    "Brand": [
+      null,
+      "Marca"
+    ],
+    "By clicking “Accept & continue”, you give your consent for Connected Cars A/S to collect this information from the vehicle in order to deliver the services. You also give your consent for information about error codes and technical details to be forwarded for use by My Preferred Workshop for maintenance and repairs.": [
+      null,
+      "Al presionar “Aceptar y continuar” das consentimiento a Connected Cars A/S para recabar información del vehículo  con el propósito de dar el servicio deseado. También das consentimiento para recibir información sobre errores y detalles técnicos para ser usados por tu taller preferido con el fin de acelerar trabajos de mantenimiento y reparaciones."
+    ],
+    "By clicking continue, you confirm that you have read and understood Connected Cars’ terms and conditions": [
+      null,
+      "Presionando continuar confirmas que has leído y entendido los términos y condiciones de Connected Cars"
+    ],
+    "Call": [
+      null,
+      "Llamar"
+    ],
+    "Call roadside assistance": [
+      null,
+      "Llamar a ayuda en carretera"
+    ],
+    "Call workshop": [
+      null,
+      "Llamar al taller"
+    ],
+    "Cancel": [
+      null,
+      "Cancelar"
+    ],
+    "Car added": [
+      null,
+      "Vehículo añadido"
+    ],
+    "Car details": [
+      null,
+      "Detalles del vehículo"
+    ],
+    "Car health": [
+      null,
+      "Salud del vehículo"
+    ],
+    "Car information": [
+      null,
+      "Información del vehículo"
+    ],
+    "Car insurance for": [
+      null,
+      "Seguro de"
+    ],
+    "Car is currently": [
+      null,
+      "El vehículo esta actualmente"
+    ],
+    "Change password": [
+      null,
+      "Cambiar password"
+    ],
+    "Change Workshop": [
+      null,
+      "Cambiar taller"
+    ],
+    "Chassis number": [
+      null,
+      "Numero de chasis"
+    ],
+    "Check the health of your car and get notified if something changes.": [
+      null,
+      "Comprueba la salud de tu vehículo y recibe notificaciones cuando esta cambie"
+    ],
+    "Choose from Library": [
+      null,
+      "Elegir de tu biblioteca"
+    ],
+    "Close": [
+      null,
+      "Cerrar"
+    ],
+    "CLOSE": [
+      null,
+      "CERRAR"
+    ],
+    "Close account": [
+      null,
+      "Cerrar cuenta"
+    ],
+    "Closed": [
+      null,
+      "Cerrado"
+    ],
+    "Closes your {brand} account permanently and stop receiving any updates from {brand} or your vehicle.": [
+      null,
+      "Cerrar tu cuenta en {brand} permanentemente y dejar de recibir actualizaciones de {brand}"
+    ],
+    "Complete": [
+      null,
+      "Completo"
+    ],
+    "Complete registration": [
+      null,
+      "Completar registro"
+    ],
+    "Confirm": [
+      null,
+      "Confirmar"
+    ],
+    "Confirm new email address": [
+      null,
+      "Confirmar nuevo e-mail"
+    ],
+    "Confirm new password": [
+      null,
+      "Confirmar nueva contraseña"
+    ],
+    "Congratulations! A new car has been added to your account. Please take a moment to review and cofirm the data collection for your newly added car.": [
+      null,
+      "Felicidades! Un nuevo vehículo ha sido añadido a tu cuenta. Por favor, dedica un momento a revisar y confirmar el proceso de recogida de datos de tu nuevo vehículo."
+    ],
+    "Connect": [
+      null,
+      "Conectar"
+    ],
+    "Connect your car": [
+      null,
+      "Conectar tu vehículo"
+    ],
+    "Continue": [
+      null,
+      "Continuar"
+    ],
+    "Cookie policy": [
+      null,
+      "Política de cookies"
+    ],
+    "Couldn’t load view.": [
+      null,
+      "No se ha podido cargar la vista."
+    ],
+    "Crash detected": [
+      null,
+      "Accidente registrado"
+    ],
+    "Create account": [
+      null,
+      "Crear cuenta"
+    ],
+    "Critical warning": [
+      null,
+      "Alarma critica"
+    ],
+    "Current car status shows you the information about your car's general health and location. This feature lets you stay on top of things and notifies you if anything is wrong. Current status is required to use {brand}.": [
+      null,
+      "El estado actual del vehículo muestra la información de la salud general y localización de tu coche. Esta funcionalidad te permite estar al tanto de todo lo que ocurre con tu vehículo. El estado actual es necesario para usar {brand}"
+    ],
+    "CURRENT DEVICE": [
+      null,
+      "DISPOSITIVO ACTUAL"
+    ],
+    "Current password": [
+      null,
+      "Contraseña actual"
+    ],
+    "Current status": [
+      null,
+      "Estado actual"
+    ],
+    "Currently snoozed": [
+      null,
+      "Silenciado actualmente"
+    ],
+    "Data collection": [
+      null,
+      "Recogida de datos"
+    ],
+    "Data is no longer being sent to {service}": [
+      null,
+      "No se enviaran datos a {service}"
+    ],
+    "Data Settings": [
+      null,
+      "Configuración de datos"
+    ],
+    "DAYS": [
+      null,
+      "DIAS"
+    ],
+    "Detected {ago}": [
+      null,
+      "Detectado {ago}"
+    ],
+    "Devices that have logged in on your account": [
+      null,
+      "Dispositivos que se han conectado con tu cuenta"
+    ],
+    "Directions": [
+      null,
+      "Direcciones"
+    ],
+    "Disabled": [
+      null,
+      "Desactivado"
+    ],
+    "Disconnect": [
+      null,
+      "Desconectar"
+    ],
+    "Distance": [
+      null,
+      "Distancia"
+    ],
+    "Do you need help?": [
+      null,
+      "Necesitas ayuda?"
+    ],
+    "Do you want to remove {carName}?": [
+      null,
+      "Quieres eliminar {carName}?"
+    ],
+    "Don't have an account?": [
+      null,
+      "No tienes una cuenta?"
+    ],
+    "Done!": [
+      null,
+      "Hecho!"
+    ],
+    "Download update": [
+      null,
+      "Descargar actualización"
+    ],
+    "E-mail address": [
+      null,
+      "Dirección de e-mail"
+    ],
+    "Email": [
+      null,
+      "E-mail"
+    ],
+    "Email already exists": [
+      null,
+      "El E-mail ya existe"
+    ],
+    "Enabled": [
+      null,
+      "Activado"
+    ],
+    "End snooze": [
+      null,
+      "Terminar silenciado"
+    ],
+    "Engine warning light detected": [
+      null,
+      "Indicador de motor detectado"
+    ],
+    "Enter your e-mail to get a link to reset your password": [
+      null,
+      "Introduce tu e-mail para recibir un enlace de restablecimiento de tu contraseña"
+    ],
+    "Error": [
+      null,
+      "Error"
+    ],
+    "Error codes and regular technical information about the vehicle": [
+      null,
+      "Códigos de error e información técnica sobre tu vehículo"
+    ],
+    "Every now and again, in addition to notifying you about your vehicle’s requirements, we would like to send you news and offers tailored to your needs and mobility requirements.\n\nWe would therefore like your permission to send you marketing material about cars, accessories, leasing, car hire and mobility services by post, email or text message, through the app or on social media.\n\nYou will receive newsletters and other marketing material from companies in [Semler Group A/S](http://semler.dk/semler-gruppen/om-semler-gruppen/) and [authorised Volkswagen, Audi, Skoda and SEAT dealers and service partners in Denmark](https://connectedcars.io/list-of-workshops).\n\nYou may withdraw your consent at any time under notification settings in the app.\n\nYou give your consent by clicking “Yes, please”.": [
+      null,
+      "De vez en cuando, ademas de notificarte sobre los requisitos de tu vehículo, nos gustaría enviarte noticias y ofertas adaptadas a tus necesidades\n\nPor eso, te pedimos permiso para enviar material de marketing sobre coches, accesorios, leasing, alquiler de coches y servicios de movilidad por correo, email o SMS, a través de nuestra app o las redes sociales.\n\nRecibirás newsletters y otros tipos de material de marketing de las empresas del grupo Semler\n\nPuedes cancelar este consentimiento en la sección de configuración de la app\n\nPuedes dar consentimiento haciendo click en “Si, por favor”"
+    ],
+    "Explore amazing services you can add to your {brand}": [
+      null,
+      "Explora los increíbles servicios que pueden ser añadidos a tu {brand}"
+    ],
+    "First name": [
+      null,
+      "Nombre"
+    ],
+    "Forgot password": [
+      null,
+      "Contraseña olvidada"
+    ],
+    "Forgot Password": [
+      null,
+      "Contraseña olvidada"
+    ],
+    "Friday": [
+      null,
+      "Viernes"
+    ],
+    "Fuel Consumed": [
+      null,
+      "Combustible consumido"
+    ],
+    "Fuel Level": [
+      null,
+      "Nivel de combustible"
+    ],
+    "Fuel level is": [
+      null,
+      "El nivel de combustible es"
+    ],
+    "Fuel status": [
+      null,
+      "Estado del combustible"
+    ],
+    "Fuel usage": [
+      null,
+      "Uso del combustible"
+    ],
+    "Get connected!": [
+      null,
+      "Conéctate!"
+    ],
+    "Get directions": [
+      null,
+      "Recibir direcciones"
+    ],
+    "Get notifications by email": [
+      null,
+      "Recibir notificaciones por email"
+    ],
+    "Get notifications by SMS on your phone": [
+      null,
+      "Recibir notificaciones por SMS en tu teléfono"
+    ],
+    "Get reset link": [
+      null,
+      "Recibir enlace para reestablecer"
+    ],
+    "Get started!": [
+      null,
+      "Vamos allá!"
+    ],
+    "Go back": [
+      null,
+      "Atrás"
+    ],
+    "Go to": [
+      null,
+      "Ir a"
+    ],
+    "Go to {service}": [
+      null,
+      "Ir a {service}"
+    ],
+    "History": [
+      null,
+      "Historia"
+    ],
+    "hour": [
+      "hours",
+      "hora",
+      "horas"
+    ],
+    "I need help": [
+      null,
+      "Necesito ayuda"
+    ],
+    "I've already booked": [
+      null,
+      "Ya he reservado"
+    ],
+    "If you are having trouble with your car you can receive help from {roadsideBrand} Roadside Assistance.\n\nYour car will be picked up and moved to the nearest {roadsideBrand} workshop where your car will be in good hands.": [
+      null,
+      "Si estás teniendo problemas con tu vehículo puedes recibir ayuda de {roadsideBrand} asistencia en carretera.\n\nTu vehículo será recogido y llevado al taller autorizado mas cercano donde pondrán tu coche en buenas manos."
+    ],
+    "If you are no longer the primary user of the car you can remove it from your account": [
+      null,
+      "Si no eres el usuario principal del vehículo puedes eliminarlo de tu cuenta"
+    ],
+    "If you want to report a warning light that we have not notified you about, please click here.": [
+      null,
+      "Si quieres informar de un nuevo indicador del que no te hemos notificado, por favor pulsa aquí."
+    ],
+    "Ignition on/off": [
+      null,
+      "Contacto encendido/apagado"
+    ],
+    "In order to be able to deliver the key services provided by {appName}, we need to collect the following data from your; **{carName}**.": [
+      null,
+      "Para que puedas disfrutar de todos los servicios que te ofrece {appName}, necesitamos recabar los siguientes datos de tu **{carName}**."
+    ],
+    "In order to be able to deliver the key services provided by {appName}, we require your consent for My Preferred workshop to send marketing material via text message and email and through the app about your vehicle’s requirements (service or repair). You may withdraw your consent at any time. However, if you do so, you will no longer be able to use the {appName} app (see our [terms](https://connectedcars.io/user-terms/en)).": [
+      null,
+      "Para que puedas disfrutar the todos los servicios que te ofrece {appName}, necesitamos tu consentimiento para que tu taller preferido envíe material de marketing a través de emails y mensajes de texto o a través de la app. Puedes retirar tu consentimiento en cualquier momento. En el caso de retirarlo, la app {appName} dejara de funcionar (ver nuestros [términos](https://connectedcars.io/user-terms/en))"
+    ],
+    "Incorrect email or password": [
+      null,
+      "Email o password incorrecto"
+    ],
+    "Insurance": [
+      null,
+      "Seguro"
+    ],
+    "Is one or more warning lights still lit?": [
+      null,
+      "Hay algún indicador todavía encendido?"
+    ],
+    "Is the {lamp} warning light flashing?": [
+      null,
+      "Esta el indicador de {lamp} parpadeando?"
+    ],
+    "Is your car unable to drive or start? Get help here": [
+      null,
+      "Tu vehículo no arranca? Obtener ayuda aquí"
+    ],
+    "It's time for your car to be serviced.\n\nBased on your current driving style, your car needs servicing before {date}.\n\nBook now to secure a time that suits you.": [
+      null,
+      "Tu vehículo debe ser revisado.\n\nEn base a tu actual estilo de conducción, tu coche necesitara una revisión antes del {date}.\n\nPide cita ahora para conseguir una fecha que te sea adecuada."
+    ],
+    "Language": [
+      null,
+      "Lenguaje"
+    ],
+    "Last login: ": [
+      null,
+      "Ultima conexión:"
+    ],
+    "Last name": [
+      null,
+      "Apellidos"
+    ],
+    "Latest Trip": [
+      null,
+      "Ultimo viaje"
+    ],
+    "Learn more": [
+      null,
+      "Saber mas"
+    ],
+    "Leasing": [
+      null,
+      "Leasing"
+    ],
+    "Legal": [
+      null,
+      "Legal"
+    ],
+    "License plate": [
+      null,
+      "Matricula"
+    ],
+    "License Plate": [
+      null,
+      "Matricula"
+    ],
+    "Loading": [
+      null,
+      "Cargando"
+    ],
+    "Location": [
+      null,
+      "Localización"
+    ],
+    "Lock status": [
+      null,
+      "Estado del bloqueo"
+    ],
+    "Lock status is currently only available for up to 5 minutes after the car has been switched off. If you lock the car after these 5 minutes, it might still read as unlocked.": [
+      null,
+      "El estado del bloqueo solo esta disponible hasta 5 minutos después de apagar el vehículo. Si bloqueas tu coche después de esos 5 minutos, puede que siga apareciendo como desbloqueado."
+    ],
+    "Lock status is unfortunately not available for your car at the moment. We are continuously working on improving availability for all different models and hope to make it possible to show the lock status for your car as soon as possible.": [
+      null,
+      "El estado del bloqueo no esta disponible para tu vehículo en este momento. Estamos constantemente trabajando para mejorar la disponibilidad de varios modelos y esperamos mostrar el estado del bloqueo para tu coche pronto."
+    ],
+    "locked": [
+      null,
+      "bloqueado"
+    ],
+    "Locked status currently": [
+      null,
+      "Estado del bloqueo ahora"
+    ],
+    "Log in with e-mail": [
+      null,
+      "Entrar con e-mail"
+    ],
+    "Log in with Facebook": [
+      null,
+      "Entrar con Facebook"
+    ],
+    "Login": [
+      null,
+      "Entrar"
+    ],
+    "Logout": [
+      null,
+      "Cerrar sesión"
+    ],
+    "Message workshop": [
+      null,
+      "Escribir al taller"
+    ],
+    "Messages": [
+      null,
+      "Mensajes"
+    ],
+    "Mobile (recommended)": [
+      null,
+      "Numero de móvil (recomendado)"
+    ],
+    "Model": [
+      null,
+      "Modelo"
+    ],
+    "Monday": [
+      null,
+      "Lunes"
+    ],
+    "More": [
+      null,
+      "Más"
+    ],
+    "Name": [
+      null,
+      "Nombre"
+    ],
+    "New email": [
+      null,
+      "Nuevo e-mail"
+    ],
+    "New password": [
+      null,
+      "Password nuevo"
+    ],
+    "News & offers": [
+      null,
+      "Novedades y ofertas"
+    ],
+    "Next": [
+      null,
+      "Siguiente"
+    ],
+    "Next oil change": [
+      null,
+      "Próximo cambio de aceite"
+    ],
+    "Next oil change:": [
+      null,
+      "Próximo cambio de aceite:"
+    ],
+    "Next service": [
+      null,
+      "Siguiente servicio"
+    ],
+    "Next service:": [
+      null,
+      "Siguiente servicio:"
+    ],
+    "No": [
+      null,
+      "No"
+    ],
+    "No thanks": [
+      null,
+      "No gracias"
+    ],
+    "No thanks, remove all cars": [
+      null,
+      "No gracias, eliminar todos los vehículos"
+    ],
+    "No thanks, remove the car": [
+      null,
+      "No gracias, eliminar vehículo"
+    ],
+    "No warning lights": [
+      null,
+      "No hay luces de advertencia"
+    ],
+    "not available": [
+      null,
+      "no disponible"
+    ],
+    "Not sure what we read from your car, or how?": [
+      null,
+      "Quieres saber que datos obtenemos de tu coche?"
+    ],
+    "Notifications": [
+      null,
+      "Notificaciones"
+    ],
+    "Odometer": [
+      null,
+      "Cuentakilómetros"
+    ],
+    "Old email": [
+      null,
+      "Antiguo email"
+    ],
+    "Open until ": [
+      null,
+      "Abierto hasta"
+    ],
+    "Opening Hours": [
+      null,
+      "Horario"
+    ],
+    "or": [
+      null,
+      "o"
+    ],
+    "Overdue by {distance} km": [
+      null,
+      "Retraso de {distance} km"
+    ],
+    "Overdue by {n} day": [
+      "Overdue by {n} days",
+      "Retraso de {n} día",
+      "Retraso de {n} días"
+    ],
+    "Partially Enabled": [
+      null,
+      "Parcialmente activado"
+    ],
+    "Partnerships": [
+      null,
+      "Asociaciones"
+    ],
+    "Password": [
+      null,
+      "Contraseña"
+    ],
+    "Personal information": [
+      null,
+      "Información personal"
+    ],
+    "Phone": [
+      null,
+      "Teléfono"
+    ],
+    "Please contact support@connectedcars.dk if the problem keeps reoccurring. We received the following error:\n\n {error}": [
+      null,
+      "Contacta con support@connectedcars.dk si el problema continúa ocurriendo. Hemos recibido el siguiente error\n\n{error}"
+    ],
+    "Please make sure that the email and password is input correctly": [
+      null,
+      "Por favor, asegúrate de que el email y la contraseña son correctos"
+    ],
+    "Please select the warning light(s) you have observed": [
+      null,
+      "Por favor, selecciona el indicador(es) que has observado"
+    ],
+    "Please select your workshop": [
+      null,
+      "Selecciona tu taller"
+    ],
+    "Please try again later.": [
+      null,
+      "Por favor, inténtalo mas tarde."
+    ],
+    "Possible incident detected": [
+      null,
+      "Posible incidente detectado"
+    ],
+    "Privacy": [
+      null,
+      "Privacidad"
+    ],
+    "Privacy policy": [
+      null,
+      "Política de privacidad"
+    ],
+    "Profile": [
+      null,
+      "Perfil"
+    ],
+    "Read and accept our Conditions of Use, Privacy Policy, and Cookie Policy.": [
+      null,
+      "Leer y aceptar nuestras condiciones de uso, política de privacidad y política de cookies"
+    ],
+    "Read more about the service": [
+      null,
+      "Leer mas sobre este servicio"
+    ],
+    "Receive notifications with offers and services for you and your car": [
+      null,
+      "Recibir notificaciones con ofertas y servicios para tu vehículo"
+    ],
+    "Red": [
+      null,
+      "Rojo"
+    ],
+    "Register": [
+      null,
+      "Registrarse"
+    ],
+    "Register with e-mail": [
+      null,
+      "Registrarse con e-mail"
+    ],
+    "Related to {system}": [
+      null,
+      "Relacionado a {system}"
+    ],
+    "Reminder": [
+      null,
+      "Recordatorio"
+    ],
+    "Remove": [
+      null,
+      "Eliminar"
+    ],
+    "REMOVE": [
+      null,
+      "ELIMINAR"
+    ],
+    "Remove car": [
+      null,
+      "Eliminar vehículo"
+    ],
+    "Remove my car": [
+      null,
+      "Eliminar mi vehículo"
+    ],
+    "Remove Photo": [
+      null,
+      "Eliminar foto"
+    ],
+    "Report": [
+      null,
+      "Informar"
+    ],
+    "Report warning light": [
+      null,
+      "Informar sobre indicador"
+    ],
+    "Reported": [
+      null,
+      "Informado"
+    ],
+    "Reported {ago}": [
+      null,
+      "Informado {ago}"
+    ],
+    "Reported warning light": [
+      null,
+      "Indicador informado"
+    ],
+    "Required": [
+      null,
+      "Obligatorio"
+    ],
+    "Retry": [
+      null,
+      "Reintentar"
+    ],
+    "Roadside assistance": [
+      null,
+      "Asistencia en carretera"
+    ],
+    "Saturday": [
+      null,
+      "Sábado"
+    ],
+    "Search...": [
+      null,
+      "Buscar…"
+    ],
+    "Security and login": [
+      null,
+      "Seguridad y login"
+    ],
+    "See amazing services you can add to your {brand}": [
+      null,
+      "Descubrir servicios a añadir a {brand}"
+    ],
+    "Service": [
+      null,
+      "Servicio"
+    ],
+    "Service recommended now": [
+      null,
+      "Revisión recomendada ahora"
+    ],
+    "Service recommended within {days} days": [
+      null,
+      "Revisión recomendada en {days} días"
+    ],
+    "Share the following data from your {brand} account with {service}": [
+      null,
+      "Comparte los siguientes datos de tu {brand} con {service}"
+    ],
+    "Shop": [
+      null,
+      "Tienda"
+    ],
+    "Showing results for ´{query}´": [
+      null,
+      "Mostrando resultado para ´{query}´"
+    ],
+    "Sign up": [
+      null,
+      "Registrarse"
+    ],
+    "Skip": [
+      null,
+      "Saltar"
+    ],
+    "SMS": [
+      null,
+      "SMS"
+    ],
+    "Snooze location": [
+      null,
+      "Silenciar localización"
+    ],
+    "Snooze until {until}": [
+      null,
+      "Silenciar hasta {until}"
+    ],
+    "Snooze your car’s location to prevent any GPS data from being stored for a set period of time. It’s possible to snooze for up to 24 hours at a time.\n\nWhen you snooze you’re losing access to the location feature.\n\nYou can always end snooze early.": [
+      null,
+      "Silenciar la localización de tu coche evitando que esta se almacene durante un tiempo. Es posible silenciarla hasta por 24 horas.\n\nCuando silencies la localización perderás el acceso a la funcionalidad de localización\n\nSiempre puedes finalizar el silenciado antes de tiempo."
+    ],
+    "So your car broke down? What now? We’re here to help": [
+      null,
+      "Tu coche ha sufrido una avería? Estamos aquí para ayudarte"
+    ],
+    "Solid": [
+      null,
+      "Constante"
+    ],
+    "Something went wrong": [
+      null,
+      "Algo ha ido mal"
+    ],
+    "Something went wrong. Please try again later.": [
+      null,
+      "Algo ha ido mal, inténtalo más tarde."
+    ],
+    "Status": [
+      null,
+      "Estado"
+    ],
+    "Status of my car": [
+      null,
+      "Estado de mi coche"
+    ],
+    "Still lit": [
+      null,
+      "Aún encendido"
+    ],
+    "Stop the car, turn ignition off, and consult your workshop or roadside assistance immediately for further help.": [
+      null,
+      "Para el coche, apaga el contacto, y consulta a tu taller o asistencia en carretera inmediatamente para más ayuda."
+    ],
+    "Sunday": [
+      null,
+      "Domingo"
+    ],
+    "Support": [
+      null,
+      "Ayuda"
+    ],
+    "Systems checked ok": [
+      null,
+      "Sistemas funcionando correctamente"
+    ],
+    "Systems overview": [
+      null,
+      "Sistemas"
+    ],
+    "Take Photo": [
+      null,
+      "Sacar foto"
+    ],
+    "Technical help": [
+      null,
+      "Ayuda técnica"
+    ],
+    "Terms": [
+      null,
+      "Términos"
+    ],
+    "Terms and conditions": [
+      null,
+      "Términos y condiciones"
+    ],
+    "Thank you for reporting the incident and helping us improve {brand}.\n\nThe incident may be serious. Please contact the workshop as soon as possible for more information.": [
+      null,
+      "Gracias por informar de el incidente y ayudarnos a mejorar {brand}\n\nEl incidente puede ser importante. Por favor, contacta con el taller lo antes posible para más informacion."
+    ],
+    "Thank you for reporting the incident to your workshop and helping us improve {brand}.\n\nIf there are no red or yellow warning lights lit in your dashboard you can drive on safely.\n\nFeel free to leave a note to the workshop if needed.": [
+      null,
+      "Gracias por informar de el incidente y ayudarnos a mejorar {brand}.\n\nSi no hay ningun indicador rojo o amarillo puedes conducir con total seguridad.\n\nPuedes enviar un mensaje al taller si crees que es necesario."
+    ],
+    "Thank you!": [
+      null,
+      "Gracias!"
+    ],
+    "The car will be removed within 24 hours and you will loose access to it in the app. Please contact your workshop if this is an error.": [
+      null,
+      "El coche será eliminado en 24 horas y perderás acceso a sus datos en la app. Por favor, contacta con el taller si esto es un error."
+    ],
+    "The email already exists in our system. Please make sure that you don't already have a user or log in instead.": [
+      null,
+      "El email ya existe en nuestro sistema. Por favor, asegúrate de que no te has registrado antes."
+    ],
+    "The error may be serious. Please contact the workshop as soon as possible for more information.": [
+      null,
+      "El error puede ser importante. Por favor, contacta con el taller tan pronto como sea posible."
+    ],
+    "The following systems are being checked in your car": [
+      null,
+      "Los siguientes sistemas están siendo comprobados en tu coche"
+    ],
+    "The fuel level shows your car's remaining fuel in liters. It will update every time you switch your car on or off.": [
+      null,
+      "El nivel de gasolina muestra los litros que quedan en tu vehículo. Será actualizado cada vez que enciendas o apagues tu coche."
+    ],
+    "The GPS position of the vehicle while driving and when parked": [
+      null,
+      "La posición GPS del vehículo mientras conduces o al aparcar."
+    ],
+    "This feature gives your preferred workshop access to read some of the data coming from your car so you can get technical help. This also allows services like prefilling booking forms. Technical help is required to use {brand}.": [
+      null,
+      "Esta función da permiso al taller de tu elección para leer algunos datos de tu coche de manera que te puedan ayudar en vivo. Esto también tiene otros beneficios como rellenar automáticamente los datos de tu coche en formularios. La ayuda técnica es necesaria para usar {brand}"
+    ],
+    "Thursday": [
+      null,
+      "Jueves"
+    ],
+    "time": [
+      null,
+      "tiempo"
+    ],
+    "Time for service": [
+      null,
+      "Tiempo hasta servicio"
+    ],
+    "Total mileage": [
+      null,
+      "Kilometraje"
+    ],
+    "Total time": [
+      null,
+      "Tiempo total"
+    ],
+    "Trip map": [
+      null,
+      "Mapa del viaje"
+    ],
+    "Trips": [
+      null,
+      "Viajes"
+    ],
+    "Trips allows you to keep track of your cars trips. You can see where you have driven, how far, how long and how much gas you’ve used. Trip map is required to enable the feature.": [
+      null,
+      "Viajes te permite estar informado de los viajes que tu vehículo ha hecho. Puedes ver donde has conducido, cuanta distancia, cuanto tiempo y cuanta gasolina has consumido. Mapa de viaje es necesario para activar esta funcionalidad."
+    ],
+    "Tuesday": [
+      null,
+      "Martes"
+    ],
+    "Turn your car on\nagain to update the lock status.": [
+      null,
+      "Enciende tu coche de nuevo\nPara actualizar el estado del bloqueo."
+    ],
+    "Unable to complete logout. Please make sure you have an active internet connection and try again.": [
+      null,
+      "No se puede cerrar la sesión. Por favor, asegúrate de que estas conectado a internet y prueba de nuevo."
+    ],
+    "Unable to upload image, please try again later": [
+      null,
+      "No se pudo subir la imagen, por favor prueba de nuevo"
+    ],
+    "unknown": [
+      null,
+      "Desconocido"
+    ],
+    "unlocked": [
+      null,
+      "desbloqueado"
+    ],
+    "Update email": [
+      null,
+      "Actualizar email"
+    ],
+    "Update name": [
+      null,
+      "Actualizar nombre"
+    ],
+    "Update password": [
+      null,
+      "Actualizar contraseña"
+    ],
+    "Update phone": [
+      null,
+      "Actualizar número de teléfono"
+    ],
+    "Updated {when}": [
+      null,
+      "Actualizado {when}"
+    ],
+    "Updating": [
+      null,
+      "Actualizando"
+    ],
+    "Updating your vehicle data": [
+      null,
+      "Actualizando datos de tu vehículo"
+    ],
+    "User": [
+      null,
+      "Usuario"
+    ],
+    "Want to stop sending data?": [
+      null,
+      "Quieres dejar de enviar datos?"
+    ],
+    "Warning": [
+      null,
+      "Atención"
+    ],
+    "Warning lamp reported": [
+      null,
+      "Indicador de precaución activado"
+    ],
+    "Warning light is off": [
+      null,
+      "Indicador de precaución apagado"
+    ],
+    "We are adding a lot of partnerships really soon, for your benefit.\n\nFor example:\n\n    -  \tDrivers log\n    -   \tFuel consumption\n    -         Insurance\n    -  \tParking": [
+      null,
+      "Añadiremos servicios muy pronto, para tu beneficio \n\nPor ejemplo:\n\n    -    \tLibro de conducción\n    -    \tConsumo de combustible\n    -    \tSeguros\n    -    \tApacamiento"
+    ],
+    "We care about your privacy, so with features that are using your personal data we want to ensure that you know what is collected and have given your consent before we collect or use your data.\n\nPlease take a couple of minutes to review your data settings.": [
+      null,
+      "Estamos comprometidos con tu privacidad, por eso nos aseguramos de que sepas para que se recopilan tus datos y te pedimos consentimiento antes de recabar ninguna información\n\nPor favor dedica un par de minutos para revisar la configuración de tus datos."
+    ],
+    "We constantly improve the user experience of the app and therefore we would like to see how you use it. Feel free to send suggestions to feedback@connectedcars.io": [
+      null,
+      "Constantemente intentamos mejorar tu experiencia en la app. Por favor, envía tus sugerencias a feedback@connectedcars.io"
+    ],
+    "We got all your Volkswagen needs 1-click away": [
+      null,
+      "Tienes todo lo que necesitas de Volkswagen a un click"
+    ],
+    "We have made some changes. To use all the features in the app you need to update. This is to ensure that you can enjoy new features and keep the user experience as smooth as possible.\n\nUpdate so you can enjoy the app again.": [
+      null,
+      "Hemos hecho algunos cambios. Para poder usarlos, tienes que actualizar tu app.\n\nPor favor, actualiza la app para que puedas disfrutar de ella de nuevo"
+    ],
+    "We measure several key systems in your car. To see what systems we support, please go to the systems overview.": [
+      null,
+      "Vi måler på flere centrale systemer i din bil. Få flere informationer om de systemer vi overvåger i din bil ved at klikke på systemoverblik."
+    ],
+    "We're ready to start sending data. Now we just need you to sign up with {service} or sign in and everything should be good to go": [
+      null,
+      "Estamos listos para empezar a enviar datos. Ahora tienes que registrarte con {service} o iniciar sesión y todo estará listo."
+    ],
+    "Wednesday": [
+      null,
+      "Miércoles"
+    ],
+    "Welcome to\n{brand}": [
+      null,
+      "Bienvenido a\n{brand}"
+    ],
+    "Welcome to {brand} - It's time to connect your car. Please tap to see more": [
+      null,
+      "Bienvenido a {brand} - Es la hora de conectar tu vehículo. Por favor presiona para ver mas"
+    ],
+    "Welcome to {brand}. It is time to connect your car.\n\nBook an appointment with your preferred workshop or call them to get connected. {brand} is free.": [
+      null,
+      "Bienvenido a {brand}. Es la hora de conectar tu vehículo\n\nReserva una cita con tu taller favorito o llámales para conectar tu coche. {brand} es gratis."
+    ],
+    "What color is the {lamp} warning light?": [
+      null,
+      "De que color es el indicador {lamp}?"
+    ],
+    "When you disconnect we stop sending data to {service}, your future trips won't be shared any longer.\n\nRemember that your subscription with {service} doesn't end automatically when you disconnect!": [
+      null,
+      "Cuando te desconectas dejamos de enviar datos a {service}, tus viajes futuros no serán compartidos.\n\nRecuerda que tu subscripción a {service} no termina cuando te desconectas!"
+    ],
+    "Where’s my car": [
+      null,
+      "Donde esta mi coche"
+    ],
+    "With {brand} you can get an overview of your car's trips. Message your workshop to get connected.": [
+      null,
+      "Con {brand} puedes ver un resumen de los viajes realizados. Contacta con tu taller para conectarte."
+    ],
+    "Workshop": [
+      null,
+      "Taller"
+    ],
+    "Workshops": [
+      null,
+      "Talleres"
+    ],
+    "Write workshop": [
+      null,
+      "Escribe al taller"
+    ],
+    "Yellow": [
+      null,
+      "Amarillo"
+    ],
+    "Yes": [
+      null,
+      "Si"
+    ],
+    "Yes, flashing": [
+      null,
+      "Si, intermitente"
+    ],
+    "Yes, My Preferred Workshop may also contact me by telephone regarding an agreement on service or repair.": [
+      null,
+      "Si, mi taller favorito también puede contactarme por teléfono sobre un acuerdo de servicio o reparación."
+    ],
+    "Yes, please": [
+      null,
+      "Si, gracias"
+    ],
+    "Yes, still lit": [
+      null,
+      "Si, sigue encendido"
+    ],
+    "You are receiving this message because our data suggest that there may be an incident  with your car´s {system}.\n\nHave you observed any warning light(s) in your car´s dashboard?": [
+      null,
+      "Revibes este mensaje porque nuestros datos sugieren que puede haber un incidente en to coche: {system}\n\nHas observado algún indicador en el tablero de tu coche?"
+    ],
+    "You can write to your workshop about anything and also easily check if your car is ok.": [
+      null,
+      "Puedes escribir a tu taller acerca de cualquier cosa y también comprobar si tu coche esta bien"
+    ],
+    "You give your consent by clicking \"Accept & continue\".\n\nYou can change your notification settings in the app at any time or withdraw your consent completely by removing all of your vehicles under settings.": [
+      null,
+      "Puedes dar tu consentimiento pulsando “Aceptar y continuar”\n\nPuedes cambiar la configuración de las notificaciones en cualquier momento o retirar el consentimiento completamente eliminando tus vehículos en la configuración"
+    ],
+    "You may withdraw your consent at any time by clicking on “remove vehicle” under settings in the app. You will find further details about how we process your personal data in our [privacy policy](https://connectedcars.io/privacy-policy/en).": [
+      null,
+      "Puedes retirar el consentimiento en cualquier momento pulsando “eliminar vehículo” en la ventana de configuración. Encontraras mas detalles acerca de como tratamos tus datos en nuestra [política de privacidad](https://connectedcars.io/privacy-policy/en)."
+    ],
+    "You will loose access to the car permanently. Continue if you're no longer the primary user of the car": [
+      null,
+      "Perderás el acceso al coche permanentemente. Continua si no eres el usuario principal del vehículo."
+    ],
+    "Your car hasn’t logged any trips yet.\nTake your car for a spin, and we can get started creating your trip history.": [
+      null,
+      "Tu vehículo no ha registrado ningun viaje aún.\nDate una vuelta en tu coche y los viajes comenzarán a registrarse."
+    ],
+    "Your car is currently snoozed! Location is shown as unavailable and we won’t store any GPS data from you car in the snooze period.": [
+      null,
+      "Tu coche esta actualmente silenciado! La localización no está disponible y no almacenaremos ninguna posición GPS del vehículo en el periodo seleccionado."
+    ],
+    "Your car needs to be serviced regularly to ensure it's overall health. Remember that when you service your vehicle at an authorized dealership you get free roadside assistance.": [
+      null,
+      "Tu coche necesita ser revisado regularmente para comprobar su salud general. Recuerda que cuando tu vehículo es revisado en un taller autorizado, recibes asistencia en carretera gratuita."
+    ],
+    "Your reported warning lights": [
+      null,
+      "Has informado los indicadores"
+    ],
+    "Your request has been sent. We will contact you within 48 hours to confirm": [
+      null,
+      "Tu petición ha sido enviada. Te contactaremos en las próximas 24h para confirmarlo."
+    ],
+    "camera\u0004Cancel": [
+      null,
+      "Cancelar"
+    ]
+  }
+}
